@@ -58,18 +58,9 @@ Python, Faker, Azure Event Hubs, Azure Data Factory, ADLS Gen2, Databricks (Lake
 
 1. Create an Event Hubs namespace `TelecomEH` with a hub `teletopic`.
 2. Create a `.env` file for the generator with your Event Hubs connection string, then run the generator to start streaming.
-3. Put the mapping JSON files and the bulk file in `raw/ingestion`, then run the ADF pipeline.
+3. Put the mapping JSON files and the bulk file in GitHub and connect it with ADLS through HTTP, then run the ADF pipeline.
 4. Run `BronzeADLS.ipynb` to create the Delta tables.
 5. Create a Databricks pipeline with the three pipeline files, and set the config value `connection_string` to your Event Hubs connection string.
 6. Start the pipeline and query the Gold tables.
 
-## Security note
 
-Never commit connection strings, SAS tokens or `.env` files. Use Databricks secrets or pipeline configuration, and rotate any key that was ever pasted into a notebook.
-
-## Possible next steps
-
-- Auto Loader instead of the notebook for the batch load
-- Orchestration with Databricks Jobs
-- Power BI semantic model on top of Gold
-- Churn prediction using `churn_risk_score` and usage facts
