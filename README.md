@@ -14,30 +14,8 @@ An end-to-end data engineering project that simulates an Egyptian telecom operat
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    G[Python event generator<br/>Faker + Egypt mappings] -->|JSON events| EH[(Azure Event Hubs<br/>teletopic)]
-    F[Mapping + bulk JSON files] --> ADF[Azure Data Factory<br/>Lookup > ForEach > Copy]
-    ADF --> RAW[(ADLS raw/ingestion)]
-    RAW --> NB[Databricks notebook<br/>BronzeADLS]
-    NB --> BT[(Delta: bulk_telecom_events<br/>+ map_* tables)]
+<img width="1517" height="262" alt="image" src="https://github.com/user-attachments/assets/9a6b78d1-8e37-4183-8da1-4186e8ba0be5" />
 
-    subgraph DLT[Databricks Declarative Pipeline]
-      direction LR
-      B[Bronze<br/>telecom_events_raw] --> S1[stg_telecom_events]
-      S1 --> S2[silver_telecom_events]
-      S2 --> S3[silver_customer_changes]
-      S3 --> S4[silver_customer_scd2]
-      S4 --> S5[silver_dim_customer]
-      S2 --> OBT[silver_obt]
-      S2 --> GOLD[Gold<br/>dims + facts]
-      S5 --> GOLD
-    end
-
-    EH --> B
-    BT --> S1
-    GOLD --> BI[Power BI / SQL]
-```
 
 ## Repository layout
 
