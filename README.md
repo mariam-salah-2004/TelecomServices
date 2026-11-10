@@ -2,7 +2,7 @@
 
 An end-to-end data engineering project that simulates an Egyptian telecom operator (Vodafone, Etisalat, Orange, WE) and builds a full lakehouse on top of it: Azure Event Hubs, Azure Data Factory, Databricks Lakeflow Declarative Pipelines (Bronze / Silver / Gold), SCD Type 2 customers, and a star/snowflake model ready for BI.
 
-![Architecture](flow.svg)
+<img width="1837" height="795" alt="image" src="https://github.com/user-attachments/assets/cc8c2999-9188-4524-b1a1-b070f11a4611" />
 
 ## What it does
 
@@ -54,7 +54,7 @@ flowchart LR
 
 ### Bronze
 - **Streaming**: `telecom_events_raw` reads the `teletopic` Event Hub using the Kafka protocol (SASL_SSL). The connection string comes from a pipeline config value and is never hardcoded.
-- **Batch**: an ADF pipeline copies the JSON files to ADLS, and a notebook loads them into Delta tables in `telecom.onelakedatabase`.
+- **Batch**: an ADF pipeline copies the JSON files from GitHub to ADLS, and a notebook loads them into Delta tables in `telecom.onelakedatabase`.
 
 ### Silver
 1. `stg_telecom_events`: two append flows (bulk and stream) into one table with a single schema.
