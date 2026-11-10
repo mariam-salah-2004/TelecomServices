@@ -1,0 +1,22 @@
+[
+  {
+    "loyalty_tier_id": 1,
+    "loyalty_tier": "Bronze",
+    "min_points": 0
+  },
+  {
+    "loyalty_tier_id": 2,
+    "loyalty_tier": "Silver",
+    "min_points": 2000
+  },
+  {
+    "loyalty_tier_id": 3,
+    "loyalty_tier": "Gold",
+    "min_points": 6000
+  },
+  {
+    "loyalty_tier_id": 4,
+    "loyalty_tier": "Platinum",
+    "min_points": 15000
+  }
+]

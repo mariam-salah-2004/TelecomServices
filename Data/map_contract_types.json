@@ -1,0 +1,38 @@
+[
+  {
+    "contract_type_id": 1,
+    "contract_type": "Prepaid (No Contract)",
+    "duration_months": 0,
+    "is_corporate": false
+  },
+  {
+    "contract_type_id": 2,
+    "contract_type": "Postpaid 12M",
+    "duration_months": 12,
+    "is_corporate": false
+  },
+  {
+    "contract_type_id": 3,
+    "contract_type": "Postpaid 24M",
+    "duration_months": 24,
+    "is_corporate": false
+  },
+  {
+    "contract_type_id": 4,
+    "contract_type": "Corporate Pool 12M",
+    "duration_months": 12,
+    "is_corporate": true
+  },
+  {
+    "contract_type_id": 5,
+    "contract_type": "Corporate Pool 24M",
+    "duration_months": 24,
+    "is_corporate": true
+  },
+  {
+    "contract_type_id": 6,
+    "contract_type": "Corporate Fleet 36M",
+    "duration_months": 36,
+    "is_corporate": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "order_status_id": 1,
+    "order_status": "Draft",
+    "is_final": false
+  },
+  {
+    "order_status_id": 2,
+    "order_status": "Submitted",
+    "is_final": false
+  },
+  {
+    "order_status_id": 3,
+    "order_status": "Credit Check",
+    "is_final": false
+  },
+  {
+    "order_status_id": 4,
+    "order_status": "Approved",
+    "is_final": false
+  },
+  {
+    "order_status_id": 5,
+    "order_status": "Provisioned",
+    "is_final": true
+  },
+  {
+    "order_status_id": 6,
+    "order_status": "Rejected",
+    "is_final": true
+  },
+  {
+    "order_status_id": 7,
+    "order_status": "Cancelled",
+    "is_final": true
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "operator_id": 1,
+    "operator": "Vodafone Egypt",
+    "operator_ar": "فودافون",
+    "prefix": "010",
+    "wallet_name": "Vodafone Cash",
+    "ussd_code": "*9#"
+  },
+  {
+    "operator_id": 2,
+    "operator": "Etisalat by e&",
+    "operator_ar": "اتصالات",
+    "prefix": "011",
+    "wallet_name": "Etisalat Cash",
+    "ussd_code": "*555#"
+  },
+  {
+    "operator_id": 3,
+    "operator": "Orange Egypt",
+    "operator_ar": "أورنج",
+    "prefix": "012",
+    "wallet_name": "Orange Cash",
+    "ussd_code": "#100#"
+  },
+  {
+    "operator_id": 4,
+    "operator": "WE (Telecom Egypt)",
+    "operator_ar": "وي",
+    "prefix": "015",
+    "wallet_name": "WE Pay",
+    "ussd_code": "*688#"
+  }
+]

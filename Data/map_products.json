@@ -1,0 +1,93 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Prepaid SIM Card",
+    "product_category": "SIM",
+    "unit_price_egp": 15,
+    "unit_cost_egp": 5
+  },
+  {
+    "product_id": 2,
+    "product_name": "Postpaid SIM Card",
+    "product_category": "SIM",
+    "unit_price_egp": 0,
+    "unit_cost_egp": 3
+  },
+  {
+    "product_id": 3,
+    "product_name": "eSIM Activation",
+    "product_category": "SIM",
+    "unit_price_egp": 30,
+    "unit_cost_egp": 2
+  },
+  {
+    "product_id": 4,
+    "product_name": "SIM Replacement",
+    "product_category": "SIM",
+    "unit_price_egp": 25,
+    "unit_cost_egp": 3
+  },
+  {
+    "product_id": 5,
+    "product_name": "VIP / Golden Number",
+    "product_category": "Number",
+    "unit_price_egp": 500,
+    "unit_cost_egp": 20
+  },
+  {
+    "product_id": 6,
+    "product_name": "Smartphone - Entry",
+    "product_category": "Device",
+    "unit_price_egp": 6000,
+    "unit_cost_egp": 5000
+  },
+  {
+    "product_id": 7,
+    "product_name": "Smartphone - Mid",
+    "product_category": "Device",
+    "unit_price_egp": 14000,
+    "unit_cost_egp": 12200
+  },
+  {
+    "product_id": 8,
+    "product_name": "Smartphone - Premium",
+    "product_category": "Device",
+    "unit_price_egp": 38000,
+    "unit_cost_egp": 34000
+  },
+  {
+    "product_id": 9,
+    "product_name": "4G Router",
+    "product_category": "Device",
+    "unit_price_egp": 1500,
+    "unit_cost_egp": 1200
+  },
+  {
+    "product_id": 10,
+    "product_name": "5G Home Router",
+    "product_category": "Device",
+    "unit_price_egp": 3200,
+    "unit_cost_egp": 2700
+  },
+  {
+    "product_id": 11,
+    "product_name": "MiFi 4G Pocket",
+    "product_category": "Device",
+    "unit_price_egp": 1100,
+    "unit_cost_egp": 900
+  },
+  {
+    "product_id": 12,
+    "product_name": "Tablet",
+    "product_category": "Device",
+    "unit_price_egp": 7500,
+    "unit_cost_egp": 6500
+  },
+  {
+    "product_id": 13,
+    "product_name": "Accessory Bundle",
+    "product_category": "Accessory",
+    "unit_price_egp": 350,
+    "unit_cost_egp": 150
+  }
+]

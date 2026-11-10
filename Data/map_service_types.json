@@ -1,0 +1,27 @@
+[
+  {
+    "service_type_id": 1,
+    "service_type": "Voice Call",
+    "unit": "second"
+  },
+  {
+    "service_type_id": 2,
+    "service_type": "Mobile Data",
+    "unit": "MB"
+  },
+  {
+    "service_type_id": 3,
+    "service_type": "SMS",
+    "unit": "message"
+  },
+  {
+    "service_type_id": 4,
+    "service_type": "International Roaming",
+    "unit": "MB"
+  },
+  {
+    "service_type_id": 5,
+    "service_type": "Value Added Service",
+    "unit": "subscription"
+  }
+]

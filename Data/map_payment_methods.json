@@ -1,0 +1,79 @@
+[
+  {
+    "payment_method_id": 1,
+    "payment_method": "Vodafone Cash",
+    "is_wallet": true,
+    "is_card": false,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 2,
+    "payment_method": "Etisalat Cash",
+    "is_wallet": true,
+    "is_card": false,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 3,
+    "payment_method": "Orange Cash",
+    "is_wallet": true,
+    "is_card": false,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 4,
+    "payment_method": "WE Pay",
+    "is_wallet": true,
+    "is_card": false,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 5,
+    "payment_method": "InstaPay",
+    "is_wallet": false,
+    "is_card": false,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 6,
+    "payment_method": "Fawry",
+    "is_wallet": false,
+    "is_card": false,
+    "requires_auth": false
+  },
+  {
+    "payment_method_id": 7,
+    "payment_method": "Credit Card",
+    "is_wallet": false,
+    "is_card": true,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 8,
+    "payment_method": "Debit Card",
+    "is_wallet": false,
+    "is_card": true,
+    "requires_auth": true
+  },
+  {
+    "payment_method_id": 9,
+    "payment_method": "Scratch Card",
+    "is_wallet": false,
+    "is_card": false,
+    "requires_auth": false
+  },
+  {
+    "payment_method_id": 10,
+    "payment_method": "Cash (Retail Store)",
+    "is_wallet": false,
+    "is_card": false,
+    "requires_auth": false
+  },
+  {
+    "payment_method_id": 11,
+    "payment_method": "Bank Transfer / Invoice",
+    "is_wallet": false,
+    "is_card": false,
+    "requires_auth": true
+  }
+]

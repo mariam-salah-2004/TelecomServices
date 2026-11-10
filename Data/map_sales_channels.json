@@ -1,0 +1,27 @@
+[
+  {
+    "sales_channel_id": 1,
+    "sales_channel": "Own Store",
+    "is_b2b": false
+  },
+  {
+    "sales_channel_id": 2,
+    "sales_channel": "Authorized Dealer",
+    "is_b2b": false
+  },
+  {
+    "sales_channel_id": 3,
+    "sales_channel": "Online Shop",
+    "is_b2b": false
+  },
+  {
+    "sales_channel_id": 4,
+    "sales_channel": "Telesales",
+    "is_b2b": false
+  },
+  {
+    "sales_channel_id": 5,
+    "sales_channel": "Field Sales (B2B)",
+    "is_b2b": true
+  }
+]

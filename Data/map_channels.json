@@ -1,0 +1,26 @@
+[
+  {
+    "channel_id": 1,
+    "channel": "Mobile App"
+  },
+  {
+    "channel_id": 2,
+    "channel": "USSD"
+  },
+  {
+    "channel_id": 3,
+    "channel": "Retail Store"
+  },
+  {
+    "channel_id": 4,
+    "channel": "Fawry Kiosk"
+  },
+  {
+    "channel_id": 5,
+    "channel": "Website"
+  },
+  {
+    "channel_id": 6,
+    "channel": "Call Center"
+  }
+]

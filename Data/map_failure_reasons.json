@@ -1,0 +1,50 @@
+[
+  {
+    "failure_reason_id": 1,
+    "failure_reason": null
+  },
+  {
+    "failure_reason_id": 2,
+    "failure_reason": "Insufficient balance"
+  },
+  {
+    "failure_reason_id": 3,
+    "failure_reason": "Network error"
+  },
+  {
+    "failure_reason_id": 4,
+    "failure_reason": "Invalid number"
+  },
+  {
+    "failure_reason_id": 5,
+    "failure_reason": "Invalid or used voucher"
+  },
+  {
+    "failure_reason_id": 6,
+    "failure_reason": "Payment declined"
+  },
+  {
+    "failure_reason_id": 7,
+    "failure_reason": "Wallet limit exceeded"
+  },
+  {
+    "failure_reason_id": 8,
+    "failure_reason": "Timeout"
+  },
+  {
+    "failure_reason_id": 9,
+    "failure_reason": "Credit check failed"
+  },
+  {
+    "failure_reason_id": 10,
+    "failure_reason": "Incomplete KYC documents"
+  },
+  {
+    "failure_reason_id": 11,
+    "failure_reason": "Number not eligible for port-in"
+  },
+  {
+    "failure_reason_id": 12,
+    "failure_reason": "Out of stock"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "offer_id": 1,
+    "offer_name": "No offer",
+    "offer_type": "None",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 2,
+    "offer_name": "Double Balance Weekend",
+    "offer_type": "Balance bonus",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 3,
+    "offer_name": "Ramadan Bonus Data",
+    "offer_type": "Bonus data",
+    "discount_pct": 0,
+    "bonus_data_gb": 5,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 4,
+    "offer_name": "Cashback 10%",
+    "offer_type": "Cashback",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 10,
+    "operator_id": null
+  },
+  {
+    "offer_id": 5,
+    "offer_name": "Student Discount 15%",
+    "offer_type": "Discount",
+    "discount_pct": 15,
+    "bonus_data_gb": 0,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 6,
+    "offer_name": "Eid Mega Offer",
+    "offer_type": "Bonus data",
+    "discount_pct": 0,
+    "bonus_data_gb": 10,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 7,
+    "offer_name": "First Recharge Gift",
+    "offer_type": "Bonus data",
+    "discount_pct": 0,
+    "bonus_data_gb": 2,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 8,
+    "offer_name": "Wallet Cashback 20 EGP",
+    "offer_type": "Cashback",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 20,
+    "operator_id": null
+  },
+  {
+    "offer_id": 9,
+    "offer_name": "Loyalty Points 2x",
+    "offer_type": "Loyalty",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 10,
+    "offer_name": "Black Friday 30% Off",
+    "offer_type": "Discount",
+    "discount_pct": 30,
+    "bonus_data_gb": 0,
+    "cashback_egp": 0,
+    "operator_id": null
+  },
+  {
+    "offer_id": 11,
+    "offer_name": "Vodafone Cash Fridays",
+    "offer_type": "Cashback",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 15,
+    "operator_id": 1
+  },
+  {
+    "offer_id": 12,
+    "offer_name": "Etisalat Cash Rewards",
+    "offer_type": "Cashback",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 15,
+    "operator_id": 2
+  },
+  {
+    "offer_id": 13,
+    "offer_name": "Orange Cash Bonus",
+    "offer_type": "Cashback",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 15,
+    "operator_id": 3
+  },
+  {
+    "offer_id": 14,
+    "offer_name": "WE Pay Cashback",
+    "offer_type": "Cashback",
+    "discount_pct": 0,
+    "bonus_data_gb": 0,
+    "cashback_egp": 15,
+    "operator_id": 4
+  }
+]

@@ -1,0 +1,3952 @@
+[
+  {
+    "sales_rep_id": 1,
+    "sales_rep_name": "Nour Mahmoud",
+    "store_id": 1,
+    "operator_id": 1,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2023-10-19",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 2,
+    "sales_rep_name": "Khaled ElShazly",
+    "store_id": 1,
+    "operator_id": 1,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2020-03-11",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 3,
+    "sales_rep_name": "Hagar Mahmoud",
+    "store_id": 1,
+    "operator_id": 1,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2018-04-04",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 4,
+    "sales_rep_name": "Hagar ElSayed",
+    "store_id": 1,
+    "operator_id": 1,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2017-12-03",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 5,
+    "sales_rep_name": "Amr Abdelrahman",
+    "store_id": 1,
+    "operator_id": 1,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2021-07-18",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 6,
+    "sales_rep_name": "Hassan Samir",
+    "store_id": 1,
+    "operator_id": 1,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2025-11-26",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 7,
+    "sales_rep_name": "Hassan Soliman",
+    "store_id": 2,
+    "operator_id": 1,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2025-06-27",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 8,
+    "sales_rep_name": "Omar Abdallah",
+    "store_id": 2,
+    "operator_id": 1,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2025-06-17",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 9,
+    "sales_rep_name": "Sara Salah",
+    "store_id": 2,
+    "operator_id": 1,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2022-02-01",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 10,
+    "sales_rep_name": "Mona Kamel",
+    "store_id": 2,
+    "operator_id": 1,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2024-09-19",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 11,
+    "sales_rep_name": "Youssef Mahmoud",
+    "store_id": 2,
+    "operator_id": 1,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2017-02-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 12,
+    "sales_rep_name": "Reem Ahmed",
+    "store_id": 2,
+    "operator_id": 1,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2019-11-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 13,
+    "sales_rep_name": "Rana Shaker",
+    "store_id": 3,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2016-02-11",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 14,
+    "sales_rep_name": "Fatma Hamdy",
+    "store_id": 3,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2023-06-14",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 15,
+    "sales_rep_name": "Heba Farouk",
+    "store_id": 3,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2015-11-23",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 16,
+    "sales_rep_name": "Esraa Mahmoud",
+    "store_id": 3,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2017-07-15",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 17,
+    "sales_rep_name": "Amr Mahmoud",
+    "store_id": 4,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2024-03-04",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 18,
+    "sales_rep_name": "Sara Hassan",
+    "store_id": 4,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2020-02-26",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 19,
+    "sales_rep_name": "Hagar ElShazly",
+    "store_id": 4,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2021-10-20",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 20,
+    "sales_rep_name": "Nour Soliman",
+    "store_id": 4,
+    "operator_id": 1,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2020-05-09",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 21,
+    "sales_rep_name": "Reem Samir",
+    "store_id": 5,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-06-18",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 22,
+    "sales_rep_name": "Mona Hamdy",
+    "store_id": 5,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-07-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 23,
+    "sales_rep_name": "Mahmoud Gamal",
+    "store_id": 5,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-08-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 24,
+    "sales_rep_name": "Menna Metwally",
+    "store_id": 6,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-04-09",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 25,
+    "sales_rep_name": "Hassan Badawy",
+    "store_id": 7,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-10-06",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 26,
+    "sales_rep_name": "Amr Abdallah",
+    "store_id": 7,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-11-07",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 27,
+    "sales_rep_name": "Mona Samir",
+    "store_id": 7,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-01-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 28,
+    "sales_rep_name": "Dina ElSayed",
+    "store_id": 7,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-08-13",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 29,
+    "sales_rep_name": "Menna Samir",
+    "store_id": 8,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-02-09",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 30,
+    "sales_rep_name": "Hagar Gamal",
+    "store_id": 9,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2023-09-17",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 31,
+    "sales_rep_name": "Menna Shaker",
+    "store_id": 10,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2025-02-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 32,
+    "sales_rep_name": "Nada Ahmed",
+    "store_id": 11,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-08-06",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 33,
+    "sales_rep_name": "Salma Metwally",
+    "store_id": 11,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-01-14",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 34,
+    "sales_rep_name": "Hossam Nabil",
+    "store_id": 11,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-07-20",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 35,
+    "sales_rep_name": "Tarek Abdallah",
+    "store_id": 11,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-08-21",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 36,
+    "sales_rep_name": "Salma Nabil",
+    "store_id": 11,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-12-24",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 37,
+    "sales_rep_name": "Ahmed ElSayed",
+    "store_id": 12,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-01-21",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 38,
+    "sales_rep_name": "Hossam Badawy",
+    "store_id": 12,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-01-11",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 39,
+    "sales_rep_name": "Aya Gamal",
+    "store_id": 13,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2016-04-14",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 40,
+    "sales_rep_name": "Mona ElSayed",
+    "store_id": 14,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-09-04",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 41,
+    "sales_rep_name": "Reem ElSayed",
+    "store_id": 15,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-12-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 42,
+    "sales_rep_name": "Heba Hamdy",
+    "store_id": 15,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-02-07",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 43,
+    "sales_rep_name": "Tarek Abdallah",
+    "store_id": 15,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-02-12",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 44,
+    "sales_rep_name": "Rana Hamdy",
+    "store_id": 16,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-10-09",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 45,
+    "sales_rep_name": "Mona Abdallah",
+    "store_id": 17,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-05-24",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 46,
+    "sales_rep_name": "Khaled Zaki",
+    "store_id": 17,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-10",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 47,
+    "sales_rep_name": "Mostafa Fathy",
+    "store_id": 17,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-11-24",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 48,
+    "sales_rep_name": "Menna Fathy",
+    "store_id": 17,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-04-08",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 49,
+    "sales_rep_name": "Menna Ibrahim",
+    "store_id": 18,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-05-09",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 50,
+    "sales_rep_name": "Ahmed Metwally",
+    "store_id": 18,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-02-08",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 51,
+    "sales_rep_name": "Mona Salah",
+    "store_id": 19,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-03-18",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 52,
+    "sales_rep_name": "Menna Farouk",
+    "store_id": 19,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-08-12",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 53,
+    "sales_rep_name": "Karim Zaki",
+    "store_id": 20,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2026-03-27",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 54,
+    "sales_rep_name": "Fatma Metwally",
+    "store_id": 21,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-08-14",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 55,
+    "sales_rep_name": "Sara Mostafa",
+    "store_id": 22,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-03-21",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 56,
+    "sales_rep_name": "Ibrahim Kamel",
+    "store_id": 22,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-03-14",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 57,
+    "sales_rep_name": "Aya Abdelrahman",
+    "store_id": 22,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-06-03",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 58,
+    "sales_rep_name": "Hossam Soliman",
+    "store_id": 22,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-08-27",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 59,
+    "sales_rep_name": "Ibrahim Hassan",
+    "store_id": 22,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-05-07",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 60,
+    "sales_rep_name": "Mariam Gamal",
+    "store_id": 23,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-03-08",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 61,
+    "sales_rep_name": "Rana Gamal",
+    "store_id": 23,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-02-11",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 62,
+    "sales_rep_name": "Aya Metwally",
+    "store_id": 23,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-05-15",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 63,
+    "sales_rep_name": "Fatma Gamal",
+    "store_id": 23,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-07-24",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 64,
+    "sales_rep_name": "Tarek Farouk",
+    "store_id": 24,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-06-22",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 65,
+    "sales_rep_name": "Sara Mahmoud",
+    "store_id": 25,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-10-12",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 66,
+    "sales_rep_name": "Salma Mostafa",
+    "store_id": 25,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-10-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 67,
+    "sales_rep_name": "Mahmoud Shaker",
+    "store_id": 25,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-01-08",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 68,
+    "sales_rep_name": "Salma Ahmed",
+    "store_id": 25,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-05-01",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 69,
+    "sales_rep_name": "Mahmoud Soliman",
+    "store_id": 25,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-05-26",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 70,
+    "sales_rep_name": "Mahmoud Fathy",
+    "store_id": 26,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-02-11",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 71,
+    "sales_rep_name": "Ahmed ElShazly",
+    "store_id": 26,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-03-04",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 72,
+    "sales_rep_name": "Khaled ElSayed",
+    "store_id": 26,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-09-11",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 73,
+    "sales_rep_name": "Amr Farouk",
+    "store_id": 26,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-06-22",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 74,
+    "sales_rep_name": "Mariam Kamel",
+    "store_id": 27,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-02-23",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 75,
+    "sales_rep_name": "Hossam Badawy",
+    "store_id": 27,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-01-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 76,
+    "sales_rep_name": "Reem Salah",
+    "store_id": 27,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-09-21",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 77,
+    "sales_rep_name": "Nour Farouk",
+    "store_id": 27,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-01-26",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 78,
+    "sales_rep_name": "Hossam Hamdy",
+    "store_id": 27,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-04-24",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 79,
+    "sales_rep_name": "Rana Ahmed",
+    "store_id": 28,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2020-04-13",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 80,
+    "sales_rep_name": "Mostafa Ibrahim",
+    "store_id": 29,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-05-24",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 81,
+    "sales_rep_name": "Menna Mostafa",
+    "store_id": 30,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-01-25",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 82,
+    "sales_rep_name": "Aya Zaki",
+    "store_id": 31,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-06-04",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 83,
+    "sales_rep_name": "Ali Farouk",
+    "store_id": 31,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-10-08",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 84,
+    "sales_rep_name": "Fatma Ahmed",
+    "store_id": 32,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-07-06",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 85,
+    "sales_rep_name": "Menna Kamel",
+    "store_id": 32,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-08-28",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 86,
+    "sales_rep_name": "Mariam Samir",
+    "store_id": 32,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-11-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 87,
+    "sales_rep_name": "Esraa ElSayed",
+    "store_id": 33,
+    "operator_id": 1,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-01-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 88,
+    "sales_rep_name": "Nour Abdallah",
+    "store_id": 34,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-01-22",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 89,
+    "sales_rep_name": "Hagar Hassan",
+    "store_id": 34,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-06-15",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 90,
+    "sales_rep_name": "Yasmin Hamdy",
+    "store_id": 34,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-03-14",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 91,
+    "sales_rep_name": "Mona Gamal",
+    "store_id": 34,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-05-28",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 92,
+    "sales_rep_name": "Menna Metwally",
+    "store_id": 34,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-09-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 93,
+    "sales_rep_name": "Aya Ahmed",
+    "store_id": 35,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-04-27",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 94,
+    "sales_rep_name": "Reem Mostafa",
+    "store_id": 35,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-06-09",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 95,
+    "sales_rep_name": "Hagar Zaki",
+    "store_id": 35,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-08-03",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 96,
+    "sales_rep_name": "Sara Mahmoud",
+    "store_id": 36,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-04-22",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 97,
+    "sales_rep_name": "Sara Shaker",
+    "store_id": 36,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-01-18",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 98,
+    "sales_rep_name": "Ali Nabil",
+    "store_id": 37,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-05-13",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 99,
+    "sales_rep_name": "Salma Nabil",
+    "store_id": 37,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-11-23",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 100,
+    "sales_rep_name": "Tarek Salah",
+    "store_id": 37,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-03-04",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 101,
+    "sales_rep_name": "Rana Shaker",
+    "store_id": 37,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-02-21",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 102,
+    "sales_rep_name": "Ahmed Samir",
+    "store_id": 37,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-12-16",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 103,
+    "sales_rep_name": "Aya Abdelrahman",
+    "store_id": 38,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-01-28",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 104,
+    "sales_rep_name": "Hagar Metwally",
+    "store_id": 38,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-05-21",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 105,
+    "sales_rep_name": "Nada Kamel",
+    "store_id": 38,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-05-11",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 106,
+    "sales_rep_name": "Salma Badawy",
+    "store_id": 38,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-05-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 107,
+    "sales_rep_name": "Dina Abdelrahman",
+    "store_id": 39,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-05-09",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 108,
+    "sales_rep_name": "Dina ElShazly",
+    "store_id": 39,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-08-27",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 109,
+    "sales_rep_name": "Mahmoud Abdelrahman",
+    "store_id": 39,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-10-04",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 110,
+    "sales_rep_name": "Rana ElShazly",
+    "store_id": 39,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-03-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 111,
+    "sales_rep_name": "Amr Ibrahim",
+    "store_id": 39,
+    "operator_id": 1,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-10-23",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 112,
+    "sales_rep_name": "Khaled Ibrahim",
+    "store_id": 40,
+    "operator_id": 2,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2017-02-14",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 113,
+    "sales_rep_name": "Mona Salah",
+    "store_id": 40,
+    "operator_id": 2,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2020-07-17",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 114,
+    "sales_rep_name": "Menna Mahmoud",
+    "store_id": 40,
+    "operator_id": 2,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2017-12-13",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 115,
+    "sales_rep_name": "Karim Hamdy",
+    "store_id": 40,
+    "operator_id": 2,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2024-01-24",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 116,
+    "sales_rep_name": "Heba Gamal",
+    "store_id": 40,
+    "operator_id": 2,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2018-11-20",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 117,
+    "sales_rep_name": "Mostafa Gamal",
+    "store_id": 40,
+    "operator_id": 2,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2018-06-10",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 118,
+    "sales_rep_name": "Salma Samir",
+    "store_id": 41,
+    "operator_id": 2,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2018-09-11",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 119,
+    "sales_rep_name": "Reem Abdelrahman",
+    "store_id": 41,
+    "operator_id": 2,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2024-12-06",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 120,
+    "sales_rep_name": "Mona Kamel",
+    "store_id": 41,
+    "operator_id": 2,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2019-09-08",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 121,
+    "sales_rep_name": "Heba Abdallah",
+    "store_id": 41,
+    "operator_id": 2,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2023-03-19",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 122,
+    "sales_rep_name": "Nada Abdallah",
+    "store_id": 41,
+    "operator_id": 2,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2026-12-27",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 123,
+    "sales_rep_name": "Aya Hassan",
+    "store_id": 41,
+    "operator_id": 2,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2025-11-07",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 124,
+    "sales_rep_name": "Khaled Zaki",
+    "store_id": 42,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2024-07-23",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 125,
+    "sales_rep_name": "Karim Salah",
+    "store_id": 42,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2020-05-15",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 126,
+    "sales_rep_name": "Fatma Mostafa",
+    "store_id": 42,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2018-10-18",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 127,
+    "sales_rep_name": "Salma Salah",
+    "store_id": 42,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2023-05-06",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 128,
+    "sales_rep_name": "Heba Mostafa",
+    "store_id": 43,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2016-01-10",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 129,
+    "sales_rep_name": "Hagar Farouk",
+    "store_id": 43,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2018-10-12",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 130,
+    "sales_rep_name": "Ali Metwally",
+    "store_id": 43,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2023-02-15",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 131,
+    "sales_rep_name": "Amr Ahmed",
+    "store_id": 43,
+    "operator_id": 2,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2025-03-10",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 132,
+    "sales_rep_name": "Heba Soliman",
+    "store_id": 44,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-01-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 133,
+    "sales_rep_name": "Hossam Shaker",
+    "store_id": 44,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-03-17",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 134,
+    "sales_rep_name": "Omar Soliman",
+    "store_id": 44,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-03-11",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 135,
+    "sales_rep_name": "Mostafa ElSayed",
+    "store_id": 44,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-06-02",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 136,
+    "sales_rep_name": "Dina Badawy",
+    "store_id": 44,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-07-16",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 137,
+    "sales_rep_name": "Tarek Hamdy",
+    "store_id": 45,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2024-12-19",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 138,
+    "sales_rep_name": "Mariam Shaker",
+    "store_id": 46,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-07-27",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 139,
+    "sales_rep_name": "Omar Soliman",
+    "store_id": 46,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-11",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 140,
+    "sales_rep_name": "Hossam Hassan",
+    "store_id": 46,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-01-10",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 141,
+    "sales_rep_name": "Dina Samir",
+    "store_id": 46,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-06-25",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 142,
+    "sales_rep_name": "Khaled Abdelrahman",
+    "store_id": 47,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-04-17",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 143,
+    "sales_rep_name": "Mariam Abdelrahman",
+    "store_id": 48,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-04-18",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 144,
+    "sales_rep_name": "Rana Samir",
+    "store_id": 48,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-02-24",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 145,
+    "sales_rep_name": "Aya Ahmed",
+    "store_id": 49,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-11-24",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 146,
+    "sales_rep_name": "Hagar Salah",
+    "store_id": 50,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2016-09-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 147,
+    "sales_rep_name": "Hagar Kamel",
+    "store_id": 51,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-08-01",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 148,
+    "sales_rep_name": "Khaled Nabil",
+    "store_id": 51,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-06-06",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 149,
+    "sales_rep_name": "Hagar Shaker",
+    "store_id": 52,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-07-05",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 150,
+    "sales_rep_name": "Yasmin Soliman",
+    "store_id": 52,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-01-10",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 151,
+    "sales_rep_name": "Fatma Gamal",
+    "store_id": 52,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-06-16",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 152,
+    "sales_rep_name": "Nada Zaki",
+    "store_id": 52,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-04-10",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 153,
+    "sales_rep_name": "Hassan Gamal",
+    "store_id": 52,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-08-01",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 154,
+    "sales_rep_name": "Salma ElShazly",
+    "store_id": 53,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-04-02",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 155,
+    "sales_rep_name": "Dina Gamal",
+    "store_id": 54,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-07-23",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 156,
+    "sales_rep_name": "Yasmin Shaker",
+    "store_id": 55,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-02-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 157,
+    "sales_rep_name": "Omar Mahmoud",
+    "store_id": 56,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-03-24",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 158,
+    "sales_rep_name": "Nour Badawy",
+    "store_id": 56,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-05-12",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 159,
+    "sales_rep_name": "Aya Abdallah",
+    "store_id": 56,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-05-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 160,
+    "sales_rep_name": "Mostafa Mostafa",
+    "store_id": 56,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-11-03",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 161,
+    "sales_rep_name": "Fatma Abdallah",
+    "store_id": 57,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-02",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 162,
+    "sales_rep_name": "Heba Soliman",
+    "store_id": 57,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-09-09",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 163,
+    "sales_rep_name": "Ali Nabil",
+    "store_id": 58,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-04-06",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 164,
+    "sales_rep_name": "Dina Kamel",
+    "store_id": 58,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-03-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 165,
+    "sales_rep_name": "Heba Shaker",
+    "store_id": 59,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-07-01",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 166,
+    "sales_rep_name": "Mohamed Ahmed",
+    "store_id": 59,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-25",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 167,
+    "sales_rep_name": "Rana Zaki",
+    "store_id": 60,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-09-10",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 168,
+    "sales_rep_name": "Omar Metwally",
+    "store_id": 61,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-04-22",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 169,
+    "sales_rep_name": "Sara ElSayed",
+    "store_id": 62,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-08-18",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 170,
+    "sales_rep_name": "Mostafa Ibrahim",
+    "store_id": 63,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-10-23",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 171,
+    "sales_rep_name": "Esraa Ahmed",
+    "store_id": 64,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2020-03-20",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 172,
+    "sales_rep_name": "Sara Hamdy",
+    "store_id": 65,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-08-24",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 173,
+    "sales_rep_name": "Esraa Hassan",
+    "store_id": 65,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-02-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 174,
+    "sales_rep_name": "Heba Mostafa",
+    "store_id": 65,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-05-14",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 175,
+    "sales_rep_name": "Yasmin Gamal",
+    "store_id": 65,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-12-17",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 176,
+    "sales_rep_name": "Mona Soliman",
+    "store_id": 65,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-02-21",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 177,
+    "sales_rep_name": "Mostafa ElSayed",
+    "store_id": 66,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-08-23",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 178,
+    "sales_rep_name": "Karim Hamdy",
+    "store_id": 67,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-06-23",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 179,
+    "sales_rep_name": "Youssef Zaki",
+    "store_id": 68,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2024-03-05",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 180,
+    "sales_rep_name": "Ahmed ElSayed",
+    "store_id": 69,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-09-05",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 181,
+    "sales_rep_name": "Salma Nabil",
+    "store_id": 70,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-07-03",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 182,
+    "sales_rep_name": "Rana Metwally",
+    "store_id": 70,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-05-09",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 183,
+    "sales_rep_name": "Salma ElSayed",
+    "store_id": 70,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-08-03",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 184,
+    "sales_rep_name": "Tarek Nabil",
+    "store_id": 70,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-10-07",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 185,
+    "sales_rep_name": "Ali Samir",
+    "store_id": 70,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-11-02",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 186,
+    "sales_rep_name": "Fatma Samir",
+    "store_id": 71,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-07-13",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 187,
+    "sales_rep_name": "Hossam Farouk",
+    "store_id": 72,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-03-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 188,
+    "sales_rep_name": "Hassan Samir",
+    "store_id": 73,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-10-15",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 189,
+    "sales_rep_name": "Mariam Shaker",
+    "store_id": 73,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-11-22",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 190,
+    "sales_rep_name": "Esraa Zaki",
+    "store_id": 73,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-09-13",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 191,
+    "sales_rep_name": "Mahmoud Ibrahim",
+    "store_id": 73,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-05-12",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 192,
+    "sales_rep_name": "Heba Hassan",
+    "store_id": 73,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-03-24",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 193,
+    "sales_rep_name": "Aya ElShazly",
+    "store_id": 74,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-04-09",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 194,
+    "sales_rep_name": "Tarek Ibrahim",
+    "store_id": 74,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-12-25",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 195,
+    "sales_rep_name": "Youssef ElSayed",
+    "store_id": 74,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-02-01",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 196,
+    "sales_rep_name": "Reem Samir",
+    "store_id": 74,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-02-28",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 197,
+    "sales_rep_name": "Karim Fathy",
+    "store_id": 74,
+    "operator_id": 2,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-11-02",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 198,
+    "sales_rep_name": "Heba ElSayed",
+    "store_id": 75,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-01-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 199,
+    "sales_rep_name": "Mohamed Mahmoud",
+    "store_id": 76,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-07-14",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 200,
+    "sales_rep_name": "Nour Kamel",
+    "store_id": 77,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-06-24",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 201,
+    "sales_rep_name": "Youssef Mahmoud",
+    "store_id": 78,
+    "operator_id": 2,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-09-23",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 202,
+    "sales_rep_name": "Youssef Samir",
+    "store_id": 79,
+    "operator_id": 3,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2023-06-08",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 203,
+    "sales_rep_name": "Ibrahim Farouk",
+    "store_id": 79,
+    "operator_id": 3,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2020-10-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 204,
+    "sales_rep_name": "Mohamed Hassan",
+    "store_id": 79,
+    "operator_id": 3,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2026-11-16",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 205,
+    "sales_rep_name": "Sara Nabil",
+    "store_id": 79,
+    "operator_id": 3,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2025-11-03",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 206,
+    "sales_rep_name": "Salma Farouk",
+    "store_id": 79,
+    "operator_id": 3,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2025-02-25",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 207,
+    "sales_rep_name": "Khaled ElShazly",
+    "store_id": 79,
+    "operator_id": 3,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2019-02-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 208,
+    "sales_rep_name": "Amr Zaki",
+    "store_id": 80,
+    "operator_id": 3,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2015-08-13",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 209,
+    "sales_rep_name": "Ibrahim Zaki",
+    "store_id": 80,
+    "operator_id": 3,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2026-05-08",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 210,
+    "sales_rep_name": "Nada Samir",
+    "store_id": 80,
+    "operator_id": 3,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2018-08-25",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 211,
+    "sales_rep_name": "Tarek Badawy",
+    "store_id": 80,
+    "operator_id": 3,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2026-04-17",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 212,
+    "sales_rep_name": "Dina Gamal",
+    "store_id": 80,
+    "operator_id": 3,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2021-03-16",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 213,
+    "sales_rep_name": "Yasmin Kamel",
+    "store_id": 80,
+    "operator_id": 3,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2019-12-01",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 214,
+    "sales_rep_name": "Tarek Salah",
+    "store_id": 81,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2021-05-02",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 215,
+    "sales_rep_name": "Mariam Soliman",
+    "store_id": 81,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2019-08-24",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 216,
+    "sales_rep_name": "Hagar Fathy",
+    "store_id": 81,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2016-01-02",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 217,
+    "sales_rep_name": "Karim Farouk",
+    "store_id": 81,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2024-05-09",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 218,
+    "sales_rep_name": "Menna Zaki",
+    "store_id": 82,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2021-10-11",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 219,
+    "sales_rep_name": "Ahmed Soliman",
+    "store_id": 82,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2026-04-25",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 220,
+    "sales_rep_name": "Menna Ibrahim",
+    "store_id": 82,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2024-09-14",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 221,
+    "sales_rep_name": "Hossam Salah",
+    "store_id": 82,
+    "operator_id": 3,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2019-02-27",
+    "commission_rate_pct": 2
+  },
+  {
+    "sales_rep_id": 222,
+    "sales_rep_name": "Amr Samir",
+    "store_id": 83,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-03-22",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 223,
+    "sales_rep_name": "Mariam Farouk",
+    "store_id": 84,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-01-05",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 224,
+    "sales_rep_name": "Khaled Fathy",
+    "store_id": 85,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-04-08",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 225,
+    "sales_rep_name": "Nada Kamel",
+    "store_id": 85,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-01-08",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 226,
+    "sales_rep_name": "Esraa ElShazly",
+    "store_id": 85,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-02-20",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 227,
+    "sales_rep_name": "Mostafa Farouk",
+    "store_id": 85,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-01-11",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 228,
+    "sales_rep_name": "Rana Ahmed",
+    "store_id": 86,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-03-06",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 229,
+    "sales_rep_name": "Heba Zaki",
+    "store_id": 86,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-05-12",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 230,
+    "sales_rep_name": "Ibrahim Farouk",
+    "store_id": 86,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-11-18",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 231,
+    "sales_rep_name": "Khaled ElShazly",
+    "store_id": 86,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-06-11",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 232,
+    "sales_rep_name": "Nada Abdallah",
+    "store_id": 86,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-03-03",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 233,
+    "sales_rep_name": "Hagar Nabil",
+    "store_id": 87,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2016-08-17",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 234,
+    "sales_rep_name": "Ali Metwally",
+    "store_id": 88,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-08-02",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 235,
+    "sales_rep_name": "Amr Abdallah",
+    "store_id": 89,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2026-12-13",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 236,
+    "sales_rep_name": "Tarek Badawy",
+    "store_id": 90,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-03-11",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 237,
+    "sales_rep_name": "Reem Soliman",
+    "store_id": 90,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-10-14",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 238,
+    "sales_rep_name": "Heba Fathy",
+    "store_id": 90,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-03-07",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 239,
+    "sales_rep_name": "Heba Badawy",
+    "store_id": 90,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-04-21",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 240,
+    "sales_rep_name": "Mariam Soliman",
+    "store_id": 91,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-03-09",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 241,
+    "sales_rep_name": "Hossam Fathy",
+    "store_id": 91,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-11-13",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 242,
+    "sales_rep_name": "Mohamed Ahmed",
+    "store_id": 92,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-02-28",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 243,
+    "sales_rep_name": "Hassan Nabil",
+    "store_id": 92,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-12-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 244,
+    "sales_rep_name": "Amr Gamal",
+    "store_id": 92,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-09-28",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 245,
+    "sales_rep_name": "Tarek Salah",
+    "store_id": 93,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-08-26",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 246,
+    "sales_rep_name": "Amr Metwally",
+    "store_id": 94,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-03-19",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 247,
+    "sales_rep_name": "Rana Mahmoud",
+    "store_id": 94,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-05-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 248,
+    "sales_rep_name": "Fatma Ahmed",
+    "store_id": 94,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-09",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 249,
+    "sales_rep_name": "Omar Mostafa",
+    "store_id": 95,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2020-01-09",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 250,
+    "sales_rep_name": "Menna Samir",
+    "store_id": 96,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-06-08",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 251,
+    "sales_rep_name": "Hassan Farouk",
+    "store_id": 97,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2023-05-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 252,
+    "sales_rep_name": "Mahmoud Hassan",
+    "store_id": 98,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-11-03",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 253,
+    "sales_rep_name": "Karim Zaki",
+    "store_id": 99,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-04-28",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 254,
+    "sales_rep_name": "Mariam Ibrahim",
+    "store_id": 99,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-06-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 255,
+    "sales_rep_name": "Salma Ibrahim",
+    "store_id": 99,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-09-20",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 256,
+    "sales_rep_name": "Hassan Nabil",
+    "store_id": 100,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-08-19",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 257,
+    "sales_rep_name": "Ali Hassan",
+    "store_id": 100,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-09-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 258,
+    "sales_rep_name": "Mostafa Farouk",
+    "store_id": 100,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-09-10",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 259,
+    "sales_rep_name": "Nour Shaker",
+    "store_id": 100,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-04-03",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 260,
+    "sales_rep_name": "Mona Abdallah",
+    "store_id": 101,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-04-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 261,
+    "sales_rep_name": "Ibrahim Kamel",
+    "store_id": 102,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-02-16",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 262,
+    "sales_rep_name": "Reem Hamdy",
+    "store_id": 102,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-10-01",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 263,
+    "sales_rep_name": "Aya Mostafa",
+    "store_id": 102,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-06-13",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 264,
+    "sales_rep_name": "Nour Badawy",
+    "store_id": 102,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-06-21",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 265,
+    "sales_rep_name": "Tarek Nabil",
+    "store_id": 102,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-02-21",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 266,
+    "sales_rep_name": "Mostafa Gamal",
+    "store_id": 103,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2018-12-06",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 267,
+    "sales_rep_name": "Dina Mostafa",
+    "store_id": 104,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2023-05-22",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 268,
+    "sales_rep_name": "Tarek Abdelrahman",
+    "store_id": 105,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-03-12",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 269,
+    "sales_rep_name": "Hossam Hassan",
+    "store_id": 106,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-07-17",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 270,
+    "sales_rep_name": "Amr Abdelrahman",
+    "store_id": 106,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-09-27",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 271,
+    "sales_rep_name": "Ahmed Ahmed",
+    "store_id": 106,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-02-25",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 272,
+    "sales_rep_name": "Hossam Zaki",
+    "store_id": 107,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-08-14",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 273,
+    "sales_rep_name": "Reem Fathy",
+    "store_id": 107,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-11-13",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 274,
+    "sales_rep_name": "Hagar Ahmed",
+    "store_id": 107,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-09-01",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 275,
+    "sales_rep_name": "Dina ElShazly",
+    "store_id": 107,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-07-21",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 276,
+    "sales_rep_name": "Heba Metwally",
+    "store_id": 108,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2020-08-28",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 277,
+    "sales_rep_name": "Omar Shaker",
+    "store_id": 109,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-11-15",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 278,
+    "sales_rep_name": "Nour ElSayed",
+    "store_id": 110,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-10-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 279,
+    "sales_rep_name": "Nour Ibrahim",
+    "store_id": 110,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-11-15",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 280,
+    "sales_rep_name": "Ibrahim Soliman",
+    "store_id": 110,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-10-02",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 281,
+    "sales_rep_name": "Youssef Kamel",
+    "store_id": 110,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-06-09",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 282,
+    "sales_rep_name": "Hassan Zaki",
+    "store_id": 110,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-07-02",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 283,
+    "sales_rep_name": "Omar ElSayed",
+    "store_id": 111,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-11-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 284,
+    "sales_rep_name": "Sara Abdelrahman",
+    "store_id": 112,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2023-05-09",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 285,
+    "sales_rep_name": "Esraa Ibrahim",
+    "store_id": 113,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2026-06-09",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 286,
+    "sales_rep_name": "Hassan Kamel",
+    "store_id": 114,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-07-07",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 287,
+    "sales_rep_name": "Mostafa ElShazly",
+    "store_id": 114,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-02-04",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 288,
+    "sales_rep_name": "Sara Zaki",
+    "store_id": 114,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-02-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 289,
+    "sales_rep_name": "Esraa Ibrahim",
+    "store_id": 114,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-02-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 290,
+    "sales_rep_name": "Sara Farouk",
+    "store_id": 114,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-02-11",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 291,
+    "sales_rep_name": "Esraa ElSayed",
+    "store_id": 115,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-02-14",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 292,
+    "sales_rep_name": "Ahmed Badawy",
+    "store_id": 116,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-08-16",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 293,
+    "sales_rep_name": "Mahmoud ElShazly",
+    "store_id": 116,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-09-21",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 294,
+    "sales_rep_name": "Hagar Mahmoud",
+    "store_id": 116,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-11-14",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 295,
+    "sales_rep_name": "Ahmed Gamal",
+    "store_id": 116,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-06-28",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 296,
+    "sales_rep_name": "Rana Metwally",
+    "store_id": 116,
+    "operator_id": 3,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-12-07",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 297,
+    "sales_rep_name": "Ali Soliman",
+    "store_id": 117,
+    "operator_id": 3,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-01-05",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 298,
+    "sales_rep_name": "Mostafa Farouk",
+    "store_id": 118,
+    "operator_id": 4,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2024-10-12",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 299,
+    "sales_rep_name": "Hassan Hassan",
+    "store_id": 118,
+    "operator_id": 4,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2016-12-07",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 300,
+    "sales_rep_name": "Esraa Nabil",
+    "store_id": 118,
+    "operator_id": 4,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2021-04-05",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 301,
+    "sales_rep_name": "Menna Fathy",
+    "store_id": 118,
+    "operator_id": 4,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2021-06-27",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 302,
+    "sales_rep_name": "Mostafa Shaker",
+    "store_id": 118,
+    "operator_id": 4,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2017-09-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 303,
+    "sales_rep_name": "Tarek Abdallah",
+    "store_id": 118,
+    "operator_id": 4,
+    "team": "Online",
+    "is_b2b": false,
+    "hire_date": "2026-07-08",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 304,
+    "sales_rep_name": "Ibrahim Abdelrahman",
+    "store_id": 119,
+    "operator_id": 4,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2019-02-22",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 305,
+    "sales_rep_name": "Khaled Zaki",
+    "store_id": 119,
+    "operator_id": 4,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2021-04-24",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 306,
+    "sales_rep_name": "Heba ElSayed",
+    "store_id": 119,
+    "operator_id": 4,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2022-11-03",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 307,
+    "sales_rep_name": "Hossam Gamal",
+    "store_id": 119,
+    "operator_id": 4,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2019-10-15",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 308,
+    "sales_rep_name": "Ibrahim Badawy",
+    "store_id": 119,
+    "operator_id": 4,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2026-01-22",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 309,
+    "sales_rep_name": "Ahmed Hamdy",
+    "store_id": 119,
+    "operator_id": 4,
+    "team": "Telesales",
+    "is_b2b": false,
+    "hire_date": "2020-03-19",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 310,
+    "sales_rep_name": "Hossam Fathy",
+    "store_id": 120,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2020-02-27",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 311,
+    "sales_rep_name": "Omar Kamel",
+    "store_id": 120,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2025-02-15",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 312,
+    "sales_rep_name": "Mahmoud Farouk",
+    "store_id": 120,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2015-06-01",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 313,
+    "sales_rep_name": "Aya Badawy",
+    "store_id": 120,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2026-06-27",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 314,
+    "sales_rep_name": "Mariam Salah",
+    "store_id": 121,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2020-03-15",
+    "commission_rate_pct": 2.5
+  },
+  {
+    "sales_rep_id": 315,
+    "sales_rep_name": "Karim Zaki",
+    "store_id": 121,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2025-11-20",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 316,
+    "sales_rep_name": "Khaled Hassan",
+    "store_id": 121,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2021-07-27",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 317,
+    "sales_rep_name": "Menna Kamel",
+    "store_id": 121,
+    "operator_id": 4,
+    "team": "B2B",
+    "is_b2b": true,
+    "hire_date": "2026-02-02",
+    "commission_rate_pct": 1.5
+  },
+  {
+    "sales_rep_id": 318,
+    "sales_rep_name": "Menna Samir",
+    "store_id": 122,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2025-04-17",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 319,
+    "sales_rep_name": "Tarek Mostafa",
+    "store_id": 123,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-07-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 320,
+    "sales_rep_name": "Ahmed Ahmed",
+    "store_id": 123,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-12-20",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 321,
+    "sales_rep_name": "Rana Zaki",
+    "store_id": 123,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-07-15",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 322,
+    "sales_rep_name": "Ahmed Farouk",
+    "store_id": 123,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-01-04",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 323,
+    "sales_rep_name": "Hossam Kamel",
+    "store_id": 123,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-09-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 324,
+    "sales_rep_name": "Nour Soliman",
+    "store_id": 124,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-02-19",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 325,
+    "sales_rep_name": "Youssef Badawy",
+    "store_id": 124,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-17",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 326,
+    "sales_rep_name": "Ibrahim Farouk",
+    "store_id": 124,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-04-19",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 327,
+    "sales_rep_name": "Fatma Ibrahim",
+    "store_id": 124,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-10-15",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 328,
+    "sales_rep_name": "Fatma Mostafa",
+    "store_id": 125,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-05",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 329,
+    "sales_rep_name": "Aya Abdallah",
+    "store_id": 125,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-07-20",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 330,
+    "sales_rep_name": "Reem Hassan",
+    "store_id": 126,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2018-03-26",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 331,
+    "sales_rep_name": "Dina Samir",
+    "store_id": 126,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-05-17",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 332,
+    "sales_rep_name": "Amr Abdelrahman",
+    "store_id": 126,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-05-18",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 333,
+    "sales_rep_name": "Amr Hamdy",
+    "store_id": 126,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-02-07",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 334,
+    "sales_rep_name": "Salma Abdelrahman",
+    "store_id": 126,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-07-11",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 335,
+    "sales_rep_name": "Menna Kamel",
+    "store_id": 127,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-10-17",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 336,
+    "sales_rep_name": "Amr ElShazly",
+    "store_id": 127,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-05-24",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 337,
+    "sales_rep_name": "Khaled Farouk",
+    "store_id": 127,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-07-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 338,
+    "sales_rep_name": "Tarek ElShazly",
+    "store_id": 128,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2021-06-15",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 339,
+    "sales_rep_name": "Ibrahim Abdallah",
+    "store_id": 129,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2015-03-17",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 340,
+    "sales_rep_name": "Amr ElSayed",
+    "store_id": 130,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-02-23",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 341,
+    "sales_rep_name": "Mohamed Gamal",
+    "store_id": 130,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-08-08",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 342,
+    "sales_rep_name": "Dina Hassan",
+    "store_id": 130,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-07-19",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 343,
+    "sales_rep_name": "Ahmed Soliman",
+    "store_id": 130,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-04-12",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 344,
+    "sales_rep_name": "Hassan Metwally",
+    "store_id": 131,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-01-11",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 345,
+    "sales_rep_name": "Mariam Abdelrahman",
+    "store_id": 131,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-06-02",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 346,
+    "sales_rep_name": "Hassan Fathy",
+    "store_id": 131,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-05-26",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 347,
+    "sales_rep_name": "Menna Farouk",
+    "store_id": 131,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-02-10",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 348,
+    "sales_rep_name": "Amr ElSayed",
+    "store_id": 132,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-06-02",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 349,
+    "sales_rep_name": "Reem Mostafa",
+    "store_id": 133,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-11-10",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 350,
+    "sales_rep_name": "Mohamed Samir",
+    "store_id": 134,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2024-02-18",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 351,
+    "sales_rep_name": "Menna Hassan",
+    "store_id": 135,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-11-25",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 352,
+    "sales_rep_name": "Aya Kamel",
+    "store_id": 135,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-12-16",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 353,
+    "sales_rep_name": "Karim Badawy",
+    "store_id": 135,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2025-02-06",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 354,
+    "sales_rep_name": "Fatma Badawy",
+    "store_id": 135,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-07-25",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 355,
+    "sales_rep_name": "Sara Abdelrahman",
+    "store_id": 136,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-06-24",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 356,
+    "sales_rep_name": "Reem Abdelrahman",
+    "store_id": 136,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-11-27",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 357,
+    "sales_rep_name": "Yasmin Abdelrahman",
+    "store_id": 136,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-05-23",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 358,
+    "sales_rep_name": "Nada Mahmoud",
+    "store_id": 136,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-07-11",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 359,
+    "sales_rep_name": "Reem Abdelrahman",
+    "store_id": 136,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-05-16",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 360,
+    "sales_rep_name": "Hagar Hamdy",
+    "store_id": 137,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-04-22",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 361,
+    "sales_rep_name": "Mariam Hamdy",
+    "store_id": 137,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-07-17",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 362,
+    "sales_rep_name": "Salma Ahmed",
+    "store_id": 138,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2024-06-07",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 363,
+    "sales_rep_name": "Reem Ahmed",
+    "store_id": 139,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2025-06-13",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 364,
+    "sales_rep_name": "Aya Soliman",
+    "store_id": 140,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2022-06-25",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 365,
+    "sales_rep_name": "Yasmin Samir",
+    "store_id": 141,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2020-02-23",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 366,
+    "sales_rep_name": "Menna Fathy",
+    "store_id": 142,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2020-12-14",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 367,
+    "sales_rep_name": "Nada Salah",
+    "store_id": 143,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-07-08",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 368,
+    "sales_rep_name": "Hossam Metwally",
+    "store_id": 143,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-06",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 369,
+    "sales_rep_name": "Nada Abdallah",
+    "store_id": 143,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2022-07-16",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 370,
+    "sales_rep_name": "Khaled Ahmed",
+    "store_id": 143,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-02-22",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 371,
+    "sales_rep_name": "Mohamed Farouk",
+    "store_id": 144,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-03-18",
+    "commission_rate_pct": 6
+  },
+  {
+    "sales_rep_id": 372,
+    "sales_rep_name": "Karim Zaki",
+    "store_id": 144,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-08-25",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 373,
+    "sales_rep_name": "Sara Nabil",
+    "store_id": 144,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-04-26",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 374,
+    "sales_rep_name": "Hassan Kamel",
+    "store_id": 145,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-10-12",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 375,
+    "sales_rep_name": "Ali Mahmoud",
+    "store_id": 145,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-03-12",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 376,
+    "sales_rep_name": "Tarek Abdelrahman",
+    "store_id": 145,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2026-05-20",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 377,
+    "sales_rep_name": "Khaled Farouk",
+    "store_id": 146,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2015-03-18",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 378,
+    "sales_rep_name": "Rana Nabil",
+    "store_id": 146,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-05-18",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 379,
+    "sales_rep_name": "Mariam Salah",
+    "store_id": 147,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2019-01-10",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 380,
+    "sales_rep_name": "Esraa Samir",
+    "store_id": 148,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-09-28",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 381,
+    "sales_rep_name": "Salma Ahmed",
+    "store_id": 149,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2023-11-23",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 382,
+    "sales_rep_name": "Ibrahim Ibrahim",
+    "store_id": 149,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2021-06-21",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 383,
+    "sales_rep_name": "Fatma Badawy",
+    "store_id": 150,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-06-24",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 384,
+    "sales_rep_name": "Menna Abdallah",
+    "store_id": 150,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-10-24",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 385,
+    "sales_rep_name": "Hagar ElSayed",
+    "store_id": 150,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-09-04",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 386,
+    "sales_rep_name": "Ibrahim Hassan",
+    "store_id": 150,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2016-10-04",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 387,
+    "sales_rep_name": "Tarek Nabil",
+    "store_id": 150,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2020-03-02",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 388,
+    "sales_rep_name": "Ahmed Hamdy",
+    "store_id": 151,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2024-03-22",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 389,
+    "sales_rep_name": "Nour Badawy",
+    "store_id": 152,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-02-17",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 390,
+    "sales_rep_name": "Nada Mahmoud",
+    "store_id": 153,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2026-02-14",
+    "commission_rate_pct": 4
+  },
+  {
+    "sales_rep_id": 391,
+    "sales_rep_name": "Hassan Salah",
+    "store_id": 154,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2026-08-01",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 392,
+    "sales_rep_name": "Hagar Nabil",
+    "store_id": 155,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2019-06-08",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 393,
+    "sales_rep_name": "Youssef Kamel",
+    "store_id": 155,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2017-07-26",
+    "commission_rate_pct": 3
+  },
+  {
+    "sales_rep_id": 394,
+    "sales_rep_name": "Heba Zaki",
+    "store_id": 155,
+    "operator_id": 4,
+    "team": "Retail",
+    "is_b2b": false,
+    "hire_date": "2024-11-19",
+    "commission_rate_pct": 5
+  },
+  {
+    "sales_rep_id": 395,
+    "sales_rep_name": "Mahmoud Abdallah",
+    "store_id": 156,
+    "operator_id": 4,
+    "team": "Dealer",
+    "is_b2b": false,
+    "hire_date": "2017-01-04",
+    "commission_rate_pct": 3
+  }
+]

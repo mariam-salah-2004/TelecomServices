@@ -1,0 +1,218 @@
+[
+  {
+    "governorate_id": 1,
+    "governorate": "Cairo",
+    "governorate_ar": "القاهرة",
+    "region": "Greater Cairo",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  {
+    "governorate_id": 2,
+    "governorate": "Giza",
+    "governorate_ar": "الجيزة",
+    "region": "Greater Cairo",
+    "latitude": 30.0131,
+    "longitude": 31.2089
+  },
+  {
+    "governorate_id": 3,
+    "governorate": "Qalyubia",
+    "governorate_ar": "القليوبية",
+    "region": "Greater Cairo",
+    "latitude": 30.4103,
+    "longitude": 31.2078
+  },
+  {
+    "governorate_id": 4,
+    "governorate": "Alexandria",
+    "governorate_ar": "الإسكندرية",
+    "region": "Alexandria & Delta",
+    "latitude": 31.2001,
+    "longitude": 29.9187
+  },
+  {
+    "governorate_id": 5,
+    "governorate": "Beheira",
+    "governorate_ar": "البحيرة",
+    "region": "Alexandria & Delta",
+    "latitude": 31.0341,
+    "longitude": 30.4682
+  },
+  {
+    "governorate_id": 6,
+    "governorate": "Gharbia",
+    "governorate_ar": "الغربية",
+    "region": "Alexandria & Delta",
+    "latitude": 30.8754,
+    "longitude": 31.0335
+  },
+  {
+    "governorate_id": 7,
+    "governorate": "Dakahlia",
+    "governorate_ar": "الدقهلية",
+    "region": "Alexandria & Delta",
+    "latitude": 31.0409,
+    "longitude": 31.3785
+  },
+  {
+    "governorate_id": 8,
+    "governorate": "Sharqia",
+    "governorate_ar": "الشرقية",
+    "region": "Alexandria & Delta",
+    "latitude": 30.5877,
+    "longitude": 31.502
+  },
+  {
+    "governorate_id": 9,
+    "governorate": "Monufia",
+    "governorate_ar": "المنوفية",
+    "region": "Alexandria & Delta",
+    "latitude": 30.5972,
+    "longitude": 30.9876
+  },
+  {
+    "governorate_id": 10,
+    "governorate": "Kafr El Sheikh",
+    "governorate_ar": "كفر الشيخ",
+    "region": "Alexandria & Delta",
+    "latitude": 31.3085,
+    "longitude": 30.9399
+  },
+  {
+    "governorate_id": 11,
+    "governorate": "Damietta",
+    "governorate_ar": "دمياط",
+    "region": "Alexandria & Delta",
+    "latitude": 31.4165,
+    "longitude": 31.8133
+  },
+  {
+    "governorate_id": 12,
+    "governorate": "Port Said",
+    "governorate_ar": "بورسعيد",
+    "region": "Canal & Sinai",
+    "latitude": 31.2653,
+    "longitude": 32.3019
+  },
+  {
+    "governorate_id": 13,
+    "governorate": "Ismailia",
+    "governorate_ar": "الإسماعيلية",
+    "region": "Canal & Sinai",
+    "latitude": 30.5965,
+    "longitude": 32.2715
+  },
+  {
+    "governorate_id": 14,
+    "governorate": "Suez",
+    "governorate_ar": "السويس",
+    "region": "Canal & Sinai",
+    "latitude": 29.9668,
+    "longitude": 32.5498
+  },
+  {
+    "governorate_id": 15,
+    "governorate": "North Sinai",
+    "governorate_ar": "شمال سيناء",
+    "region": "Canal & Sinai",
+    "latitude": 31.1316,
+    "longitude": 33.7984
+  },
+  {
+    "governorate_id": 16,
+    "governorate": "South Sinai",
+    "governorate_ar": "جنوب سيناء",
+    "region": "Canal & Sinai",
+    "latitude": 28.2362,
+    "longitude": 33.6253
+  },
+  {
+    "governorate_id": 17,
+    "governorate": "Fayoum",
+    "governorate_ar": "الفيوم",
+    "region": "Upper Egypt",
+    "latitude": 29.3084,
+    "longitude": 30.8428
+  },
+  {
+    "governorate_id": 18,
+    "governorate": "Beni Suef",
+    "governorate_ar": "بني سويف",
+    "region": "Upper Egypt",
+    "latitude": 29.0661,
+    "longitude": 31.0994
+  },
+  {
+    "governorate_id": 19,
+    "governorate": "Minya",
+    "governorate_ar": "المنيا",
+    "region": "Upper Egypt",
+    "latitude": 28.1099,
+    "longitude": 30.7503
+  },
+  {
+    "governorate_id": 20,
+    "governorate": "Assiut",
+    "governorate_ar": "أسيوط",
+    "region": "Upper Egypt",
+    "latitude": 27.1809,
+    "longitude": 31.1837
+  },
+  {
+    "governorate_id": 21,
+    "governorate": "Sohag",
+    "governorate_ar": "سوهاج",
+    "region": "Upper Egypt",
+    "latitude": 26.5591,
+    "longitude": 31.6957
+  },
+  {
+    "governorate_id": 22,
+    "governorate": "Qena",
+    "governorate_ar": "قنا",
+    "region": "Upper Egypt",
+    "latitude": 26.1551,
+    "longitude": 32.716
+  },
+  {
+    "governorate_id": 23,
+    "governorate": "Luxor",
+    "governorate_ar": "الأقصر",
+    "region": "Upper Egypt",
+    "latitude": 25.6872,
+    "longitude": 32.6396
+  },
+  {
+    "governorate_id": 24,
+    "governorate": "Aswan",
+    "governorate_ar": "أسوان",
+    "region": "Upper Egypt",
+    "latitude": 24.0889,
+    "longitude": 32.8998
+  },
+  {
+    "governorate_id": 25,
+    "governorate": "Red Sea",
+    "governorate_ar": "البحر الأحمر",
+    "region": "Red Sea & Desert",
+    "latitude": 27.2579,
+    "longitude": 33.8116
+  },
+  {
+    "governorate_id": 26,
+    "governorate": "Matrouh",
+    "governorate_ar": "مطروح",
+    "region": "Red Sea & Desert",
+    "latitude": 31.3543,
+    "longitude": 27.2373
+  },
+  {
+    "governorate_id": 27,
+    "governorate": "New Valley",
+    "governorate_ar": "الوادي الجديد",
+    "region": "Red Sea & Desert",
+    "latitude": 25.4519,
+    "longitude": 30.5464
+  }
+]

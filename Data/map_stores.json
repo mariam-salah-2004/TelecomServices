@@ -1,0 +1,1562 @@
+[
+  {
+    "store_id": 1,
+    "store_name": "Vodafone Online Shop",
+    "operator_id": 1,
+    "governorate_id": 1,
+    "sales_channel_id": 3,
+    "store_size": "Flagship",
+    "monthly_target_egp": 2500000,
+    "opened_date": "2019-09-01"
+  },
+  {
+    "store_id": 2,
+    "store_name": "Vodafone Telesales Center",
+    "operator_id": 1,
+    "governorate_id": 1,
+    "sales_channel_id": 4,
+    "store_size": "Medium",
+    "monthly_target_egp": 800000,
+    "opened_date": "2025-08-01"
+  },
+  {
+    "store_id": 3,
+    "store_name": "Vodafone Corporate Sales Office",
+    "operator_id": 1,
+    "governorate_id": 1,
+    "sales_channel_id": 5,
+    "store_size": "Medium",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2019-09-01"
+  },
+  {
+    "store_id": 4,
+    "store_name": "Vodafone Corporate Sales Office - Alexandria",
+    "operator_id": 1,
+    "governorate_id": 4,
+    "sales_channel_id": 5,
+    "store_size": "Small",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2025-10-01"
+  },
+  {
+    "store_id": 5,
+    "store_name": "Vodafone Store - Cairo #1",
+    "operator_id": 1,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2022-10-01"
+  },
+  {
+    "store_id": 6,
+    "store_name": "Vodafone Dealer - Cairo #2",
+    "operator_id": 1,
+    "governorate_id": 1,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2013-08-01"
+  },
+  {
+    "store_id": 7,
+    "store_name": "Vodafone Store - Cairo #3",
+    "operator_id": 1,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-12-01"
+  },
+  {
+    "store_id": 8,
+    "store_name": "Vodafone Dealer - Giza #1",
+    "operator_id": 1,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-07-01"
+  },
+  {
+    "store_id": 9,
+    "store_name": "Vodafone Dealer - Giza #2",
+    "operator_id": 1,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2022-12-01"
+  },
+  {
+    "store_id": 10,
+    "store_name": "Vodafone Dealer - Giza #3",
+    "operator_id": 1,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2014-10-01"
+  },
+  {
+    "store_id": 11,
+    "store_name": "Vodafone Store - Qalyubia #1",
+    "operator_id": 1,
+    "governorate_id": 3,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-01-01"
+  },
+  {
+    "store_id": 12,
+    "store_name": "Vodafone Store - Qalyubia #2",
+    "operator_id": 1,
+    "governorate_id": 3,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2021-01-01"
+  },
+  {
+    "store_id": 13,
+    "store_name": "Vodafone Dealer - Alexandria #1",
+    "operator_id": 1,
+    "governorate_id": 4,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2017-08-01"
+  },
+  {
+    "store_id": 14,
+    "store_name": "Vodafone Dealer - Alexandria #2",
+    "operator_id": 1,
+    "governorate_id": 4,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-09-01"
+  },
+  {
+    "store_id": 15,
+    "store_name": "Vodafone Store - Beheira #1",
+    "operator_id": 1,
+    "governorate_id": 5,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2019-01-01"
+  },
+  {
+    "store_id": 16,
+    "store_name": "Vodafone Dealer - Gharbia #1",
+    "operator_id": 1,
+    "governorate_id": 6,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2019-11-01"
+  },
+  {
+    "store_id": 17,
+    "store_name": "Vodafone Store - Dakahlia #1",
+    "operator_id": 1,
+    "governorate_id": 7,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-05-01"
+  },
+  {
+    "store_id": 18,
+    "store_name": "Vodafone Store - Dakahlia #2",
+    "operator_id": 1,
+    "governorate_id": 7,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2020-05-01"
+  },
+  {
+    "store_id": 19,
+    "store_name": "Vodafone Store - Sharqia #1",
+    "operator_id": 1,
+    "governorate_id": 8,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-02-01"
+  },
+  {
+    "store_id": 20,
+    "store_name": "Vodafone Dealer - Sharqia #2",
+    "operator_id": 1,
+    "governorate_id": 8,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-02-01"
+  },
+  {
+    "store_id": 21,
+    "store_name": "Vodafone Dealer - Monufia #1",
+    "operator_id": 1,
+    "governorate_id": 9,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2025-11-01"
+  },
+  {
+    "store_id": 22,
+    "store_name": "Vodafone Store - Kafr El Sheikh #1",
+    "operator_id": 1,
+    "governorate_id": 10,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2012-08-01"
+  },
+  {
+    "store_id": 23,
+    "store_name": "Vodafone Store - Damietta #1",
+    "operator_id": 1,
+    "governorate_id": 11,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2018-02-01"
+  },
+  {
+    "store_id": 24,
+    "store_name": "Vodafone Dealer - Port Said #1",
+    "operator_id": 1,
+    "governorate_id": 12,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-11-01"
+  },
+  {
+    "store_id": 25,
+    "store_name": "Vodafone Store - Ismailia #1",
+    "operator_id": 1,
+    "governorate_id": 13,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-06-01"
+  },
+  {
+    "store_id": 26,
+    "store_name": "Vodafone Store - Suez #1",
+    "operator_id": 1,
+    "governorate_id": 14,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2024-02-01"
+  },
+  {
+    "store_id": 27,
+    "store_name": "Vodafone Store - North Sinai #1",
+    "operator_id": 1,
+    "governorate_id": 15,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-01-01"
+  },
+  {
+    "store_id": 28,
+    "store_name": "Vodafone Dealer - South Sinai #1",
+    "operator_id": 1,
+    "governorate_id": 16,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2019-03-01"
+  },
+  {
+    "store_id": 29,
+    "store_name": "Vodafone Dealer - Fayoum #1",
+    "operator_id": 1,
+    "governorate_id": 17,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-08-01"
+  },
+  {
+    "store_id": 30,
+    "store_name": "Vodafone Dealer - Beni Suef #1",
+    "operator_id": 1,
+    "governorate_id": 18,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-03-01"
+  },
+  {
+    "store_id": 31,
+    "store_name": "Vodafone Store - Minya #1",
+    "operator_id": 1,
+    "governorate_id": 19,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2013-07-01"
+  },
+  {
+    "store_id": 32,
+    "store_name": "Vodafone Store - Assiut #1",
+    "operator_id": 1,
+    "governorate_id": 20,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2012-05-01"
+  },
+  {
+    "store_id": 33,
+    "store_name": "Vodafone Dealer - Sohag #1",
+    "operator_id": 1,
+    "governorate_id": 21,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2024-10-01"
+  },
+  {
+    "store_id": 34,
+    "store_name": "Vodafone Store - Qena #1",
+    "operator_id": 1,
+    "governorate_id": 22,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-03-01"
+  },
+  {
+    "store_id": 35,
+    "store_name": "Vodafone Store - Luxor #1",
+    "operator_id": 1,
+    "governorate_id": 23,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-03-01"
+  },
+  {
+    "store_id": 36,
+    "store_name": "Vodafone Store - Aswan #1",
+    "operator_id": 1,
+    "governorate_id": 24,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2012-10-01"
+  },
+  {
+    "store_id": 37,
+    "store_name": "Vodafone Store - Red Sea #1",
+    "operator_id": 1,
+    "governorate_id": 25,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2018-02-01"
+  },
+  {
+    "store_id": 38,
+    "store_name": "Vodafone Store - Matrouh #1",
+    "operator_id": 1,
+    "governorate_id": 26,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2021-11-01"
+  },
+  {
+    "store_id": 39,
+    "store_name": "Vodafone Store - New Valley #1",
+    "operator_id": 1,
+    "governorate_id": 27,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2017-10-01"
+  },
+  {
+    "store_id": 40,
+    "store_name": "Etisalat Online Shop",
+    "operator_id": 2,
+    "governorate_id": 1,
+    "sales_channel_id": 3,
+    "store_size": "Flagship",
+    "monthly_target_egp": 2500000,
+    "opened_date": "2019-03-01"
+  },
+  {
+    "store_id": 41,
+    "store_name": "Etisalat Telesales Center",
+    "operator_id": 2,
+    "governorate_id": 1,
+    "sales_channel_id": 4,
+    "store_size": "Medium",
+    "monthly_target_egp": 800000,
+    "opened_date": "2021-08-01"
+  },
+  {
+    "store_id": 42,
+    "store_name": "Etisalat Corporate Sales Office",
+    "operator_id": 2,
+    "governorate_id": 1,
+    "sales_channel_id": 5,
+    "store_size": "Medium",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2025-10-01"
+  },
+  {
+    "store_id": 43,
+    "store_name": "Etisalat Corporate Sales Office - Alexandria",
+    "operator_id": 2,
+    "governorate_id": 4,
+    "sales_channel_id": 5,
+    "store_size": "Small",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2014-07-01"
+  },
+  {
+    "store_id": 44,
+    "store_name": "Etisalat Store - Cairo #1",
+    "operator_id": 2,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2016-04-01"
+  },
+  {
+    "store_id": 45,
+    "store_name": "Etisalat Dealer - Cairo #2",
+    "operator_id": 2,
+    "governorate_id": 1,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-12-01"
+  },
+  {
+    "store_id": 46,
+    "store_name": "Etisalat Store - Cairo #3",
+    "operator_id": 2,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2022-07-01"
+  },
+  {
+    "store_id": 47,
+    "store_name": "Etisalat Dealer - Giza #1",
+    "operator_id": 2,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-02-01"
+  },
+  {
+    "store_id": 48,
+    "store_name": "Etisalat Store - Giza #2",
+    "operator_id": 2,
+    "governorate_id": 2,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2013-01-01"
+  },
+  {
+    "store_id": 49,
+    "store_name": "Etisalat Dealer - Giza #3",
+    "operator_id": 2,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-04-01"
+  },
+  {
+    "store_id": 50,
+    "store_name": "Etisalat Dealer - Qalyubia #1",
+    "operator_id": 2,
+    "governorate_id": 3,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-05-01"
+  },
+  {
+    "store_id": 51,
+    "store_name": "Etisalat Store - Qalyubia #2",
+    "operator_id": 2,
+    "governorate_id": 3,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2016-09-01"
+  },
+  {
+    "store_id": 52,
+    "store_name": "Etisalat Store - Alexandria #1",
+    "operator_id": 2,
+    "governorate_id": 4,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2014-04-01"
+  },
+  {
+    "store_id": 53,
+    "store_name": "Etisalat Dealer - Alexandria #2",
+    "operator_id": 2,
+    "governorate_id": 4,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2022-10-01"
+  },
+  {
+    "store_id": 54,
+    "store_name": "Etisalat Dealer - Beheira #1",
+    "operator_id": 2,
+    "governorate_id": 5,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-04-01"
+  },
+  {
+    "store_id": 55,
+    "store_name": "Etisalat Dealer - Gharbia #1",
+    "operator_id": 2,
+    "governorate_id": 6,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-12-01"
+  },
+  {
+    "store_id": 56,
+    "store_name": "Etisalat Store - Dakahlia #1",
+    "operator_id": 2,
+    "governorate_id": 7,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2018-08-01"
+  },
+  {
+    "store_id": 57,
+    "store_name": "Etisalat Store - Dakahlia #2",
+    "operator_id": 2,
+    "governorate_id": 7,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2014-05-01"
+  },
+  {
+    "store_id": 58,
+    "store_name": "Etisalat Store - Sharqia #1",
+    "operator_id": 2,
+    "governorate_id": 8,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2013-06-01"
+  },
+  {
+    "store_id": 59,
+    "store_name": "Etisalat Store - Sharqia #2",
+    "operator_id": 2,
+    "governorate_id": 8,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2017-11-01"
+  },
+  {
+    "store_id": 60,
+    "store_name": "Etisalat Dealer - Monufia #1",
+    "operator_id": 2,
+    "governorate_id": 9,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-10-01"
+  },
+  {
+    "store_id": 61,
+    "store_name": "Etisalat Dealer - Kafr El Sheikh #1",
+    "operator_id": 2,
+    "governorate_id": 10,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-01-01"
+  },
+  {
+    "store_id": 62,
+    "store_name": "Etisalat Dealer - Damietta #1",
+    "operator_id": 2,
+    "governorate_id": 11,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2019-06-01"
+  },
+  {
+    "store_id": 63,
+    "store_name": "Etisalat Dealer - Port Said #1",
+    "operator_id": 2,
+    "governorate_id": 12,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-01-01"
+  },
+  {
+    "store_id": 64,
+    "store_name": "Etisalat Dealer - Ismailia #1",
+    "operator_id": 2,
+    "governorate_id": 13,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2013-08-01"
+  },
+  {
+    "store_id": 65,
+    "store_name": "Etisalat Store - Suez #1",
+    "operator_id": 2,
+    "governorate_id": 14,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2017-03-01"
+  },
+  {
+    "store_id": 66,
+    "store_name": "Etisalat Dealer - North Sinai #1",
+    "operator_id": 2,
+    "governorate_id": 15,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2013-08-01"
+  },
+  {
+    "store_id": 67,
+    "store_name": "Etisalat Dealer - South Sinai #1",
+    "operator_id": 2,
+    "governorate_id": 16,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-01-01"
+  },
+  {
+    "store_id": 68,
+    "store_name": "Etisalat Dealer - Fayoum #1",
+    "operator_id": 2,
+    "governorate_id": 17,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-12-01"
+  },
+  {
+    "store_id": 69,
+    "store_name": "Etisalat Dealer - Beni Suef #1",
+    "operator_id": 2,
+    "governorate_id": 18,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2024-06-01"
+  },
+  {
+    "store_id": 70,
+    "store_name": "Etisalat Store - Minya #1",
+    "operator_id": 2,
+    "governorate_id": 19,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2013-07-01"
+  },
+  {
+    "store_id": 71,
+    "store_name": "Etisalat Dealer - Assiut #1",
+    "operator_id": 2,
+    "governorate_id": 20,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-08-01"
+  },
+  {
+    "store_id": 72,
+    "store_name": "Etisalat Dealer - Sohag #1",
+    "operator_id": 2,
+    "governorate_id": 21,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-11-01"
+  },
+  {
+    "store_id": 73,
+    "store_name": "Etisalat Store - Qena #1",
+    "operator_id": 2,
+    "governorate_id": 22,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-02-01"
+  },
+  {
+    "store_id": 74,
+    "store_name": "Etisalat Store - Luxor #1",
+    "operator_id": 2,
+    "governorate_id": 23,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-07-01"
+  },
+  {
+    "store_id": 75,
+    "store_name": "Etisalat Dealer - Aswan #1",
+    "operator_id": 2,
+    "governorate_id": 24,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-12-01"
+  },
+  {
+    "store_id": 76,
+    "store_name": "Etisalat Dealer - Red Sea #1",
+    "operator_id": 2,
+    "governorate_id": 25,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2019-08-01"
+  },
+  {
+    "store_id": 77,
+    "store_name": "Etisalat Dealer - Matrouh #1",
+    "operator_id": 2,
+    "governorate_id": 26,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-02-01"
+  },
+  {
+    "store_id": 78,
+    "store_name": "Etisalat Dealer - New Valley #1",
+    "operator_id": 2,
+    "governorate_id": 27,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-01-01"
+  },
+  {
+    "store_id": 79,
+    "store_name": "Orange Online Shop",
+    "operator_id": 3,
+    "governorate_id": 1,
+    "sales_channel_id": 3,
+    "store_size": "Flagship",
+    "monthly_target_egp": 2500000,
+    "opened_date": "2016-10-01"
+  },
+  {
+    "store_id": 80,
+    "store_name": "Orange Telesales Center",
+    "operator_id": 3,
+    "governorate_id": 1,
+    "sales_channel_id": 4,
+    "store_size": "Medium",
+    "monthly_target_egp": 800000,
+    "opened_date": "2013-08-01"
+  },
+  {
+    "store_id": 81,
+    "store_name": "Orange Corporate Sales Office",
+    "operator_id": 3,
+    "governorate_id": 1,
+    "sales_channel_id": 5,
+    "store_size": "Medium",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2012-04-01"
+  },
+  {
+    "store_id": 82,
+    "store_name": "Orange Corporate Sales Office - Alexandria",
+    "operator_id": 3,
+    "governorate_id": 4,
+    "sales_channel_id": 5,
+    "store_size": "Small",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2023-02-01"
+  },
+  {
+    "store_id": 83,
+    "store_name": "Orange Dealer - Cairo #1",
+    "operator_id": 3,
+    "governorate_id": 1,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-11-01"
+  },
+  {
+    "store_id": 84,
+    "store_name": "Orange Dealer - Cairo #2",
+    "operator_id": 3,
+    "governorate_id": 1,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-01-01"
+  },
+  {
+    "store_id": 85,
+    "store_name": "Orange Store - Cairo #3",
+    "operator_id": 3,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2022-10-01"
+  },
+  {
+    "store_id": 86,
+    "store_name": "Orange Store - Giza #1",
+    "operator_id": 3,
+    "governorate_id": 2,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2024-06-01"
+  },
+  {
+    "store_id": 87,
+    "store_name": "Orange Dealer - Giza #2",
+    "operator_id": 3,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2019-08-01"
+  },
+  {
+    "store_id": 88,
+    "store_name": "Orange Dealer - Giza #3",
+    "operator_id": 3,
+    "governorate_id": 2,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2017-07-01"
+  },
+  {
+    "store_id": 89,
+    "store_name": "Orange Dealer - Qalyubia #1",
+    "operator_id": 3,
+    "governorate_id": 3,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-11-01"
+  },
+  {
+    "store_id": 90,
+    "store_name": "Orange Store - Qalyubia #2",
+    "operator_id": 3,
+    "governorate_id": 3,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2015-07-01"
+  },
+  {
+    "store_id": 91,
+    "store_name": "Orange Store - Alexandria #1",
+    "operator_id": 3,
+    "governorate_id": 4,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2015-03-01"
+  },
+  {
+    "store_id": 92,
+    "store_name": "Orange Store - Alexandria #2",
+    "operator_id": 3,
+    "governorate_id": 4,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2025-01-01"
+  },
+  {
+    "store_id": 93,
+    "store_name": "Orange Dealer - Beheira #1",
+    "operator_id": 3,
+    "governorate_id": 5,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-03-01"
+  },
+  {
+    "store_id": 94,
+    "store_name": "Orange Store - Gharbia #1",
+    "operator_id": 3,
+    "governorate_id": 6,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2016-04-01"
+  },
+  {
+    "store_id": 95,
+    "store_name": "Orange Dealer - Dakahlia #1",
+    "operator_id": 3,
+    "governorate_id": 7,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-11-01"
+  },
+  {
+    "store_id": 96,
+    "store_name": "Orange Dealer - Dakahlia #2",
+    "operator_id": 3,
+    "governorate_id": 7,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2022-06-01"
+  },
+  {
+    "store_id": 97,
+    "store_name": "Orange Dealer - Sharqia #1",
+    "operator_id": 3,
+    "governorate_id": 8,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2025-10-01"
+  },
+  {
+    "store_id": 98,
+    "store_name": "Orange Dealer - Sharqia #2",
+    "operator_id": 3,
+    "governorate_id": 8,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2013-01-01"
+  },
+  {
+    "store_id": 99,
+    "store_name": "Orange Store - Monufia #1",
+    "operator_id": 3,
+    "governorate_id": 9,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2022-12-01"
+  },
+  {
+    "store_id": 100,
+    "store_name": "Orange Store - Kafr El Sheikh #1",
+    "operator_id": 3,
+    "governorate_id": 10,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2016-11-01"
+  },
+  {
+    "store_id": 101,
+    "store_name": "Orange Dealer - Damietta #1",
+    "operator_id": 3,
+    "governorate_id": 11,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-11-01"
+  },
+  {
+    "store_id": 102,
+    "store_name": "Orange Store - Port Said #1",
+    "operator_id": 3,
+    "governorate_id": 12,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2015-01-01"
+  },
+  {
+    "store_id": 103,
+    "store_name": "Orange Dealer - Ismailia #1",
+    "operator_id": 3,
+    "governorate_id": 13,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2016-04-01"
+  },
+  {
+    "store_id": 104,
+    "store_name": "Orange Dealer - Suez #1",
+    "operator_id": 3,
+    "governorate_id": 14,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2024-01-01"
+  },
+  {
+    "store_id": 105,
+    "store_name": "Orange Dealer - North Sinai #1",
+    "operator_id": 3,
+    "governorate_id": 15,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2013-08-01"
+  },
+  {
+    "store_id": 106,
+    "store_name": "Orange Store - South Sinai #1",
+    "operator_id": 3,
+    "governorate_id": 16,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2013-11-01"
+  },
+  {
+    "store_id": 107,
+    "store_name": "Orange Store - Fayoum #1",
+    "operator_id": 3,
+    "governorate_id": 17,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2016-03-01"
+  },
+  {
+    "store_id": 108,
+    "store_name": "Orange Dealer - Beni Suef #1",
+    "operator_id": 3,
+    "governorate_id": 18,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2024-08-01"
+  },
+  {
+    "store_id": 109,
+    "store_name": "Orange Dealer - Minya #1",
+    "operator_id": 3,
+    "governorate_id": 19,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-03-01"
+  },
+  {
+    "store_id": 110,
+    "store_name": "Orange Store - Assiut #1",
+    "operator_id": 3,
+    "governorate_id": 20,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2020-12-01"
+  },
+  {
+    "store_id": 111,
+    "store_name": "Orange Dealer - Sohag #1",
+    "operator_id": 3,
+    "governorate_id": 21,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-10-01"
+  },
+  {
+    "store_id": 112,
+    "store_name": "Orange Dealer - Qena #1",
+    "operator_id": 3,
+    "governorate_id": 22,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2014-07-01"
+  },
+  {
+    "store_id": 113,
+    "store_name": "Orange Dealer - Luxor #1",
+    "operator_id": 3,
+    "governorate_id": 23,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-04-01"
+  },
+  {
+    "store_id": 114,
+    "store_name": "Orange Store - Aswan #1",
+    "operator_id": 3,
+    "governorate_id": 24,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2014-08-01"
+  },
+  {
+    "store_id": 115,
+    "store_name": "Orange Dealer - Red Sea #1",
+    "operator_id": 3,
+    "governorate_id": 25,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2022-01-01"
+  },
+  {
+    "store_id": 116,
+    "store_name": "Orange Store - Matrouh #1",
+    "operator_id": 3,
+    "governorate_id": 26,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2019-06-01"
+  },
+  {
+    "store_id": 117,
+    "store_name": "Orange Dealer - New Valley #1",
+    "operator_id": 3,
+    "governorate_id": 27,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2015-02-01"
+  },
+  {
+    "store_id": 118,
+    "store_name": "WE Online Shop",
+    "operator_id": 4,
+    "governorate_id": 1,
+    "sales_channel_id": 3,
+    "store_size": "Flagship",
+    "monthly_target_egp": 2500000,
+    "opened_date": "2023-11-01"
+  },
+  {
+    "store_id": 119,
+    "store_name": "WE Telesales Center",
+    "operator_id": 4,
+    "governorate_id": 1,
+    "sales_channel_id": 4,
+    "store_size": "Medium",
+    "monthly_target_egp": 800000,
+    "opened_date": "2023-02-01"
+  },
+  {
+    "store_id": 120,
+    "store_name": "WE Corporate Sales Office",
+    "operator_id": 4,
+    "governorate_id": 1,
+    "sales_channel_id": 5,
+    "store_size": "Medium",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2015-04-01"
+  },
+  {
+    "store_id": 121,
+    "store_name": "WE Corporate Sales Office - Alexandria",
+    "operator_id": 4,
+    "governorate_id": 4,
+    "sales_channel_id": 5,
+    "store_size": "Small",
+    "monthly_target_egp": 5000000,
+    "opened_date": "2018-02-01"
+  },
+  {
+    "store_id": 122,
+    "store_name": "WE Dealer - Cairo #1",
+    "operator_id": 4,
+    "governorate_id": 1,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-06-01"
+  },
+  {
+    "store_id": 123,
+    "store_name": "WE Store - Cairo #2",
+    "operator_id": 4,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2017-09-01"
+  },
+  {
+    "store_id": 124,
+    "store_name": "WE Store - Cairo #3",
+    "operator_id": 4,
+    "governorate_id": 1,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2017-09-01"
+  },
+  {
+    "store_id": 125,
+    "store_name": "WE Store - Giza #1",
+    "operator_id": 4,
+    "governorate_id": 2,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2019-01-01"
+  },
+  {
+    "store_id": 126,
+    "store_name": "WE Store - Giza #2",
+    "operator_id": 4,
+    "governorate_id": 2,
+    "sales_channel_id": 1,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-01-01"
+  },
+  {
+    "store_id": 127,
+    "store_name": "WE Store - Giza #3",
+    "operator_id": 4,
+    "governorate_id": 2,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2022-03-01"
+  },
+  {
+    "store_id": 128,
+    "store_name": "WE Dealer - Qalyubia #1",
+    "operator_id": 4,
+    "governorate_id": 3,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-12-01"
+  },
+  {
+    "store_id": 129,
+    "store_name": "WE Dealer - Qalyubia #2",
+    "operator_id": 4,
+    "governorate_id": 3,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2022-12-01"
+  },
+  {
+    "store_id": 130,
+    "store_name": "WE Store - Alexandria #1",
+    "operator_id": 4,
+    "governorate_id": 4,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2021-12-01"
+  },
+  {
+    "store_id": 131,
+    "store_name": "WE Store - Alexandria #2",
+    "operator_id": 4,
+    "governorate_id": 4,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2019-09-01"
+  },
+  {
+    "store_id": 132,
+    "store_name": "WE Dealer - Beheira #1",
+    "operator_id": 4,
+    "governorate_id": 5,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2025-12-01"
+  },
+  {
+    "store_id": 133,
+    "store_name": "WE Dealer - Gharbia #1",
+    "operator_id": 4,
+    "governorate_id": 6,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2014-09-01"
+  },
+  {
+    "store_id": 134,
+    "store_name": "WE Dealer - Dakahlia #1",
+    "operator_id": 4,
+    "governorate_id": 7,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-05-01"
+  },
+  {
+    "store_id": 135,
+    "store_name": "WE Store - Dakahlia #2",
+    "operator_id": 4,
+    "governorate_id": 7,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2025-10-01"
+  },
+  {
+    "store_id": 136,
+    "store_name": "WE Store - Sharqia #1",
+    "operator_id": 4,
+    "governorate_id": 8,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2020-09-01"
+  },
+  {
+    "store_id": 137,
+    "store_name": "WE Store - Sharqia #2",
+    "operator_id": 4,
+    "governorate_id": 8,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2015-07-01"
+  },
+  {
+    "store_id": 138,
+    "store_name": "WE Dealer - Monufia #1",
+    "operator_id": 4,
+    "governorate_id": 9,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-01-01"
+  },
+  {
+    "store_id": 139,
+    "store_name": "WE Dealer - Kafr El Sheikh #1",
+    "operator_id": 4,
+    "governorate_id": 10,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-09-01"
+  },
+  {
+    "store_id": 140,
+    "store_name": "WE Dealer - Damietta #1",
+    "operator_id": 4,
+    "governorate_id": 11,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-07-01"
+  },
+  {
+    "store_id": 141,
+    "store_name": "WE Dealer - Port Said #1",
+    "operator_id": 4,
+    "governorate_id": 12,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2021-02-01"
+  },
+  {
+    "store_id": 142,
+    "store_name": "WE Dealer - Ismailia #1",
+    "operator_id": 4,
+    "governorate_id": 13,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-03-01"
+  },
+  {
+    "store_id": 143,
+    "store_name": "WE Store - Suez #1",
+    "operator_id": 4,
+    "governorate_id": 14,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2018-07-01"
+  },
+  {
+    "store_id": 144,
+    "store_name": "WE Store - North Sinai #1",
+    "operator_id": 4,
+    "governorate_id": 15,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2019-03-01"
+  },
+  {
+    "store_id": 145,
+    "store_name": "WE Store - South Sinai #1",
+    "operator_id": 4,
+    "governorate_id": 16,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2020-06-01"
+  },
+  {
+    "store_id": 146,
+    "store_name": "WE Store - Fayoum #1",
+    "operator_id": 4,
+    "governorate_id": 17,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2021-01-01"
+  },
+  {
+    "store_id": 147,
+    "store_name": "WE Dealer - Beni Suef #1",
+    "operator_id": 4,
+    "governorate_id": 18,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2014-12-01"
+  },
+  {
+    "store_id": 148,
+    "store_name": "WE Dealer - Minya #1",
+    "operator_id": 4,
+    "governorate_id": 19,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2012-01-01"
+  },
+  {
+    "store_id": 149,
+    "store_name": "WE Store - Assiut #1",
+    "operator_id": 4,
+    "governorate_id": 20,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2012-11-01"
+  },
+  {
+    "store_id": 150,
+    "store_name": "WE Store - Sohag #1",
+    "operator_id": 4,
+    "governorate_id": 21,
+    "sales_channel_id": 1,
+    "store_size": "Medium",
+    "monthly_target_egp": 400000,
+    "opened_date": "2015-10-01"
+  },
+  {
+    "store_id": 151,
+    "store_name": "WE Dealer - Qena #1",
+    "operator_id": 4,
+    "governorate_id": 22,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2019-12-01"
+  },
+  {
+    "store_id": 152,
+    "store_name": "WE Dealer - Luxor #1",
+    "operator_id": 4,
+    "governorate_id": 23,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2025-09-01"
+  },
+  {
+    "store_id": 153,
+    "store_name": "WE Dealer - Aswan #1",
+    "operator_id": 4,
+    "governorate_id": 24,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2023-04-01"
+  },
+  {
+    "store_id": 154,
+    "store_name": "WE Dealer - Red Sea #1",
+    "operator_id": 4,
+    "governorate_id": 25,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2018-01-01"
+  },
+  {
+    "store_id": 155,
+    "store_name": "WE Store - Matrouh #1",
+    "operator_id": 4,
+    "governorate_id": 26,
+    "sales_channel_id": 1,
+    "store_size": "Flagship",
+    "monthly_target_egp": 1200000,
+    "opened_date": "2025-09-01"
+  },
+  {
+    "store_id": 156,
+    "store_name": "WE Dealer - New Valley #1",
+    "operator_id": 4,
+    "governorate_id": 27,
+    "sales_channel_id": 2,
+    "store_size": "Small",
+    "monthly_target_egp": 150000,
+    "opened_date": "2020-04-01"
+  }
+]

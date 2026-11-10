@@ -1,0 +1,56 @@
+[
+  {
+    "device_id": 1,
+    "brand": "Samsung",
+    "device_type": "Smartphone",
+    "os": "Android"
+  },
+  {
+    "device_id": 2,
+    "brand": "Oppo",
+    "device_type": "Smartphone",
+    "os": "Android"
+  },
+  {
+    "device_id": 3,
+    "brand": "Xiaomi",
+    "device_type": "Smartphone",
+    "os": "Android"
+  },
+  {
+    "device_id": 4,
+    "brand": "Apple iPhone",
+    "device_type": "Smartphone",
+    "os": "iOS"
+  },
+  {
+    "device_id": 5,
+    "brand": "Realme",
+    "device_type": "Smartphone",
+    "os": "Android"
+  },
+  {
+    "device_id": 6,
+    "brand": "Infinix",
+    "device_type": "Smartphone",
+    "os": "Android"
+  },
+  {
+    "device_id": 7,
+    "brand": "Huawei",
+    "device_type": "Smartphone",
+    "os": "Android"
+  },
+  {
+    "device_id": 8,
+    "brand": "Nokia",
+    "device_type": "Feature Phone",
+    "os": "KaiOS"
+  },
+  {
+    "device_id": 9,
+    "brand": "Huawei 4G Router",
+    "device_type": "Router",
+    "os": "Embedded"
+  }
+]

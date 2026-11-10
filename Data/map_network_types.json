@@ -1,0 +1,18 @@
+[
+  {
+    "network_type_id": 1,
+    "network_type": "3G"
+  },
+  {
+    "network_type_id": 2,
+    "network_type": "4G"
+  },
+  {
+    "network_type_id": 3,
+    "network_type": "4.5G"
+  },
+  {
+    "network_type_id": 4,
+    "network_type": "5G"
+  }
+]

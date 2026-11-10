@@ -1,0 +1,32 @@
+[
+  {
+    "wallet_txn_type_id": 1,
+    "wallet_txn_type": "Send Money",
+    "charges_fee": true
+  },
+  {
+    "wallet_txn_type_id": 2,
+    "wallet_txn_type": "Cash In",
+    "charges_fee": false
+  },
+  {
+    "wallet_txn_type_id": 3,
+    "wallet_txn_type": "Cash Out (ATM)",
+    "charges_fee": true
+  },
+  {
+    "wallet_txn_type_id": 4,
+    "wallet_txn_type": "Bill Payment",
+    "charges_fee": true
+  },
+  {
+    "wallet_txn_type_id": 5,
+    "wallet_txn_type": "Merchant Payment (QR)",
+    "charges_fee": false
+  },
+  {
+    "wallet_txn_type_id": 6,
+    "wallet_txn_type": "Airtime Top-up",
+    "charges_fee": false
+  }
+]

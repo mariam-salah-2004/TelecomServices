@@ -1,0 +1,50 @@
+[
+  {
+    "industry_id": 1,
+    "industry": "Banking & Finance"
+  },
+  {
+    "industry_id": 2,
+    "industry": "Retail"
+  },
+  {
+    "industry_id": 3,
+    "industry": "Healthcare"
+  },
+  {
+    "industry_id": 4,
+    "industry": "Education"
+  },
+  {
+    "industry_id": 5,
+    "industry": "Manufacturing"
+  },
+  {
+    "industry_id": 6,
+    "industry": "Oil & Gas"
+  },
+  {
+    "industry_id": 7,
+    "industry": "Government"
+  },
+  {
+    "industry_id": 8,
+    "industry": "Hospitality & Tourism"
+  },
+  {
+    "industry_id": 9,
+    "industry": "Logistics & Transport"
+  },
+  {
+    "industry_id": 10,
+    "industry": "IT & Software"
+  },
+  {
+    "industry_id": 11,
+    "industry": "Real Estate & Construction"
+  },
+  {
+    "industry_id": 12,
+    "industry": "Media & Advertising"
+  }
+]

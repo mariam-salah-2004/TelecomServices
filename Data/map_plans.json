@@ -1,0 +1,178 @@
+[
+  {
+    "plan_id": 1,
+    "operator_id": 1,
+    "plan_name": "Vodafone Flex 70",
+    "plan_type": "Prepaid",
+    "price_egp": 70,
+    "data_gb": 10,
+    "voice_minutes": 500,
+    "sms_count": 100,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 2,
+    "operator_id": 1,
+    "plan_name": "Vodafone Flex 150",
+    "plan_type": "Prepaid",
+    "price_egp": 150,
+    "data_gb": 30,
+    "voice_minutes": 1500,
+    "sms_count": 300,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 3,
+    "operator_id": 1,
+    "plan_name": "Vodafone Red 400",
+    "plan_type": "Postpaid",
+    "price_egp": 400,
+    "data_gb": 60,
+    "voice_minutes": 3000,
+    "sms_count": 1000,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 4,
+    "operator_id": 1,
+    "plan_name": "Vodafone Net Only 100",
+    "plan_type": "Data-only",
+    "price_egp": 100,
+    "data_gb": 50,
+    "voice_minutes": 0,
+    "sms_count": 0,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 5,
+    "operator_id": 2,
+    "plan_name": "Etisalat Fakka 60",
+    "plan_type": "Prepaid",
+    "price_egp": 60,
+    "data_gb": 8,
+    "voice_minutes": 400,
+    "sms_count": 100,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 6,
+    "operator_id": 2,
+    "plan_name": "Etisalat Super Kix 140",
+    "plan_type": "Prepaid",
+    "price_egp": 140,
+    "data_gb": 28,
+    "voice_minutes": 1400,
+    "sms_count": 300,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 7,
+    "operator_id": 2,
+    "plan_name": "Etisalat Hekaya 350",
+    "plan_type": "Postpaid",
+    "price_egp": 350,
+    "data_gb": 55,
+    "voice_minutes": 2500,
+    "sms_count": 800,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 8,
+    "operator_id": 2,
+    "plan_name": "Etisalat Home Net 120",
+    "plan_type": "Data-only",
+    "price_egp": 120,
+    "data_gb": 60,
+    "voice_minutes": 0,
+    "sms_count": 0,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 9,
+    "operator_id": 3,
+    "plan_name": "Orange Go 65",
+    "plan_type": "Prepaid",
+    "price_egp": 65,
+    "data_gb": 9,
+    "voice_minutes": 450,
+    "sms_count": 100,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 10,
+    "operator_id": 3,
+    "plan_name": "Orange Shabab 130",
+    "plan_type": "Prepaid",
+    "price_egp": 130,
+    "data_gb": 25,
+    "voice_minutes": 1200,
+    "sms_count": 250,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 11,
+    "operator_id": 3,
+    "plan_name": "Orange Dream 380",
+    "plan_type": "Postpaid",
+    "price_egp": 380,
+    "data_gb": 58,
+    "voice_minutes": 2800,
+    "sms_count": 900,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 12,
+    "operator_id": 3,
+    "plan_name": "Orange Net 110",
+    "plan_type": "Data-only",
+    "price_egp": 110,
+    "data_gb": 55,
+    "voice_minutes": 0,
+    "sms_count": 0,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 13,
+    "operator_id": 4,
+    "plan_name": "WE Mix 55",
+    "plan_type": "Prepaid",
+    "price_egp": 55,
+    "data_gb": 7,
+    "voice_minutes": 350,
+    "sms_count": 80,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 14,
+    "operator_id": 4,
+    "plan_name": "WE Super 120",
+    "plan_type": "Prepaid",
+    "price_egp": 120,
+    "data_gb": 22,
+    "voice_minutes": 1000,
+    "sms_count": 200,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 15,
+    "operator_id": 4,
+    "plan_name": "WE Gold 300",
+    "plan_type": "Postpaid",
+    "price_egp": 300,
+    "data_gb": 50,
+    "voice_minutes": 2200,
+    "sms_count": 700,
+    "validity_days": 30
+  },
+  {
+    "plan_id": 16,
+    "operator_id": 4,
+    "plan_name": "WE Home Internet 200",
+    "plan_type": "Data-only",
+    "price_egp": 200,
+    "data_gb": 140,
+    "voice_minutes": 0,
+    "sms_count": 0,
+    "validity_days": 30
+  }
+]

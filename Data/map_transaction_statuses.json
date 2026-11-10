@@ -1,0 +1,17 @@
+[
+  {
+    "status_id": 1,
+    "status": "Success",
+    "is_successful": true
+  },
+  {
+    "status_id": 2,
+    "status": "Failed",
+    "is_successful": false
+  },
+  {
+    "status_id": 3,
+    "status": "Pending",
+    "is_successful": false
+  }
+]
